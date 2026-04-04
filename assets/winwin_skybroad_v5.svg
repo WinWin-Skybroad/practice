@@ -1,0 +1,157 @@
+<svg width="100%" viewBox="0 0 680 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Sky -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#061E3C"/>
+      <stop offset="25%" stop-color="#0F4A8A"/>
+      <stop offset="55%" stop-color="#1A7FC1"/>
+      <stop offset="78%" stop-color="#56B4D8"/>
+      <stop offset="92%" stop-color="#A8D8EA"/>
+      <stop offset="100%" stop-color="#E0F2FB"/>
+    </linearGradient>
+    <radialGradient id="bloom" cx="50%" cy="36%" r="52%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.90"/>
+      <stop offset="20%" stop-color="#FFF8E0" stop-opacity="0.60"/>
+      <stop offset="50%" stop-color="#C8E8F8" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#1A7FC1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="warm" cx="50%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#FFE8A0" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#FFE8A0" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="skyClip">
+      <rect x="100" y="30" width="480" height="260" rx="22"/>
+    </clipPath>
+
+    <!-- Gold W gradient: bright top, deep amber base -->
+    <linearGradient id="gGold" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#FFE566"/>
+      <stop offset="50%" stop-color="#F0A030"/>
+      <stop offset="100%" stop-color="#C05800"/>
+    </linearGradient>
+
+    <!-- Gold W shadow face -->
+    <linearGradient id="gGoldDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B3A00"/>
+      <stop offset="100%" stop-color="#C05800"/>
+    </linearGradient>
+
+    <!-- Blue-white W gradient -->
+    <linearGradient id="gBlue" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#C2E8F8"/>
+      <stop offset="100%" stop-color="#5AAED0"/>
+    </linearGradient>
+
+    <!-- Blue W shadow face -->
+    <linearGradient id="gBlueDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2A7BAA"/>
+      <stop offset="100%" stop-color="#5AAED0"/>
+    </linearGradient>
+
+    <!-- Horizon bar -->
+    <linearGradient id="hBar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFE566" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#FFE566" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="75%" stop-color="#FFE566" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FFE566" stop-opacity="0"/>
+    </linearGradient>
+  <mask id="imagine-text-gaps-3akb1c" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="680" height="460" fill="white"/><rect x="278.916748046875" y="288.6166687011719" width="121.46694946289062" height="41.67974853515625" fill="black" rx="2"/><rect x="138.36756896972656" y="353.20556640625" width="403.26483154296875" height="15.893253326416016" fill="black" rx="2"/></mask></defs>
+
+  <!-- ── SKY BACKGROUND ── -->
+  <rect x="100" y="30" width="480" height="260" rx="22" fill="url(#sky)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <g clip-path="url(#skyClip)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <rect x="100" y="30" width="480" height="260" fill="url(#bloom)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect x="100" y="30" width="480" height="260" fill="url(#warm)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <g opacity="0.07" stroke="#FFFFFF" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.07;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <line x1="340" y1="30" x2="200" y2="290" stroke-width="28" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:28px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="340" y1="30" x2="290" y2="290" stroke-width="18" mask="url(#imagine-text-gaps-3akb1c)" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:18px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="340" y1="30" x2="380" y2="290" stroke-width="22" mask="url(#imagine-text-gaps-3akb1c)" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:22px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <line x1="340" y1="30" x2="460" y2="290" stroke-width="16" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:16px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    </g>
+  </g>
+
+  <!-- ══════════════════════════════════════════
+       WIN·WIN EMBLEM
+       Two upright W shapes, overlapping at centre.
+       Shared base point = fulcrum at (340, 218).
+
+       W shape anatomy (upright, peaks UP):
+         Left foot  → valley → inner peak → valley → right foot
+         All feet sit on the horizon line (y=218).
+         Peaks rise upward.
+
+       GOLD W  — left-dominant, slightly offset left
+       BLUE W  — right-dominant, slightly offset right
+       They overlap in the middle third.
+  ══════════════════════════════════════════ -->
+
+  <!-- 
+    GOLD W points (upright W, peaks pointing up):
+      Left foot:   (220, 218)
+      Left valley: (255, 178)  ← dips down (W valley goes DOWN in upright W)
+      Centre peak: (290, 115)  ← rises UP
+      Right valley:(325, 175)  ← dips back down
+      Right foot:  (340, 218)  ← shared fulcrum
+
+    Wait — a W goes: top-left → down-right → up-middle → down-right → top-right
+    So upright W: left-high → dip → centre-low... no.
+
+    Standard W letterform read left to right:
+      Start high-left, go DOWN to first valley, UP to centre peak, DOWN to second valley, UP to high-right.
+
+    Upright W with peaks UP:
+      (x1,yTop) → (x2,yBot) → (x3,yMid) → (x4,yBot) → (x5,yTop)
+      where yTop < yBot (top = smaller y = higher on screen)
+
+    GOLD W — left side, peaks high:
+      P1=(222,125)  P2=(255,205)  P3=(293,148)  P4=(325,205)  P5=(340,218) [shared base]
+      But W has 2 high points and the shared base is the rightmost foot.
+      Make it a filled polygon for 3D look.
+  -->
+
+  <!-- GOLD W — main face (lit side) -->
+  <polygon points="&#10;    222,125&#10;    255,205&#10;    293,148&#10;    325,205&#10;    340,218&#10;    308,218&#10;    285,162&#10;    258,218&#10;    222,218&#10;  " fill="url(#gGold)" opacity="0.97" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.97;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- GOLD W — right shadow face (3D depth) -->
+  <polygon points="&#10;    293,148&#10;    325,205&#10;    340,218&#10;    308,218&#10;    285,162&#10;  " fill="url(#gGoldDark)" opacity="0.75" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.75;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- GOLD W — left peak highlight (brightest face) -->
+  <polygon points="&#10;    222,125&#10;    255,205&#10;    258,218&#10;    222,218&#10;  " fill="#FFF0A0" opacity="0.45" style="fill:rgb(255, 240, 160);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.45;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- GOLD W top edge highlight line -->
+  <polyline points="222,125 255,205 293,148 325,205 340,218" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- BLUE-WHITE W — main face (lit side) -->
+  <!-- Mirror of gold W, right-dominant, slightly overlapping -->
+  <polygon points="&#10;    458,125&#10;    425,205&#10;    387,148&#10;    355,205&#10;    340,218&#10;    372,218&#10;    395,162&#10;    422,218&#10;    458,218&#10;  " fill="url(#gBlue)" opacity="0.95" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.95;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- BLUE W — left shadow face -->
+  <polygon points="&#10;    387,148&#10;    355,205&#10;    340,218&#10;    372,218&#10;    395,162&#10;  " fill="url(#gBlueDark)" opacity="0.70" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- BLUE W — right peak highlight -->
+  <polygon points="&#10;    458,125&#10;    425,205&#10;    422,218&#10;    458,218&#10;  " fill="#FFFFFF" opacity="0.40" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.4;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- BLUE W top edge highlight -->
+  <polyline points="458,125 425,205 387,148 355,205 340,218" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" style="fill:none;stroke:rgb(255, 255, 255);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round;opacity:0.55;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- ── HORIZON LINE ── -->
+  <rect x="188" y="216" width="304" height="3.5" rx="1.8" fill="url(#hBar)" style="stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- ── FULCRUM DOT ── -->
+  <circle cx="340" cy="218" r="7" fill="#FFD700" opacity="0.95" style="fill:rgb(255, 215, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.95;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="218" r="3.5" fill="#FFFFFF" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- ── TYPOGRAPHY ── -->
+  <text x="340" y="322" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="400" fill="#0C3D6B" style="fill:rgb(12, 61, 107);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:28px;font-weight:400;text-anchor:middle;dominant-baseline:auto">
+    <tspan fill="#0C3D6B" style="fill:rgb(12, 61, 107);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:28px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Win</tspan><tspan fill="#E8893A" font-size="32" dy="-2" style="fill:rgb(232, 137, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:32px;font-weight:400;text-anchor:middle;dominant-baseline:auto">.</tspan><tspan fill="#0C3D6B" dy="2" style="fill:rgb(12, 61, 107);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, &quot;Times New Roman&quot;, serif;font-size:28px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Win</tspan>
+  </text>
+
+  <line x1="222" y1="337" x2="306" y2="337" stroke="#E8893A" stroke-width="0.9" opacity="0.55" style="fill:rgb(0, 0, 0);stroke:rgb(232, 137, 58);color:rgb(255, 255, 255);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.55;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="374" y1="337" x2="458" y2="337" stroke="#1A7FC1" stroke-width="0.9" opacity="0.55" style="fill:rgb(0, 0, 0);stroke:rgb(26, 127, 193);color:rgb(255, 255, 255);stroke-width:0.9px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.55;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="340" cy="337" r="2.8" fill="#E8893A" opacity="0.85" style="fill:rgb(232, 137, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.85;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <text x="340" y="365" text-anchor="middle" font-family="'Arial', 'Helvetica', sans-serif" font-size="10.5" letter-spacing="4.5" fill="#1A6BAE" opacity="0.75" style="fill:rgb(26, 107, 174);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.75;font-family:Arial, Helvetica, sans-serif;font-size:10.5px;font-weight:400;text-anchor:middle;dominant-baseline:auto">LONG-TERM PARTNERSHIP · IT CONSULTING</text>
+
+</svg>
