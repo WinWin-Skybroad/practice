@@ -6,9 +6,6 @@ tags:
   - WinWin-Skybroad
   - disclaimer
   - scope-of-service
-  - bilingual
-  - PDPO
-  - legal-adjacent
 status: active
 type: disclaimer
 licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad
@@ -26,7 +23,7 @@ winwin.skybroad@gmail.com
 ---
 
 
-> [!important] 閱讀前請注意
+> [!important] 閱讀前請注意：  
 > 本免責聲明適用於Win.Win@Skybroad提供或分享的所有材料、對話、書面指引、模板、核查清單、框架及任何其他內容——無論以面對面、書面、電郵或任何已出版合集（例如Win.Win AI Essentials）形式提供。
 
 ---
@@ -144,7 +141,7 @@ Win.Win@Skybroad將以保密方式處理在任何顧問對話或參與中所分�
 
 無論Win.Win@Skybroad是否已獲告知可能發生上述損失或損害，上述限制均適用。
 
-> [!note] 香港法律背景
+> [!note] 香港法律背景：  
 > 在香港，《管制豁免條款條例》（第71章）限制了可藉合約條款豁免疏忽責任的程度。本免責聲明旨在準確反映服務的一般性及非約束性質，而非在法律允許範圍以外豁免責任。如需就責任獲得法律確定性，相關條款應由香港律師審閱。
 
 ---

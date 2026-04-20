@@ -49,12 +49,14 @@ If no:
 - Verify names, dates, figures, citations, and links
 - Never let external content go out without human review
 
-## 5. Watch Traditional Chinese Documents Carefully
+## 5. Check Traditional Chinese Readability
 
-- Scanned Traditional Chinese documents are often not machine-readable
-- Scanned photos or images of documents may be misread or skipped entirely by AI — especially for Traditional Chinese text. If the original looks blurry or faded to you, the AI may see nothing at all.
-- Test readability before using AI on TC material
-- Do not assume the model actually read the source correctly
+- **Native digital files** (Word, typed PDF) are generally reliable
+- **Scanned or image-based documents** carry higher risk
+- **Failure behavior:** AI may partially read, omit, or silently “correct” characters (especially in handwritten or low-quality scans), which can change the meaning of the text
+- **Mandatory spot check:** If the source is an image, compare at least one full paragraph of the AI output against the original image before use
+- **Test before scaling:** Test readability on a one-page sample before processing multiple documents
+- **Use caution with low-quality images:** If the document is blurry, faint, or crowded, accuracy will drop significantly — do not rely on AI output without careful verification
 
 ## 6. Hong Kong Law And Regulation Need Official Checking
 
@@ -89,7 +91,7 @@ For the full HK-specific guidance and prompt templates, see [[HK Safe AI Use Pac
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
 
 [^1]: [[HK Safe AI Use Pack and Prompt Pattern Library]]

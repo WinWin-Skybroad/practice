@@ -16,17 +16,17 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 # AI Usage Policy
 ## For Churches
 
-**[Organisation Name]**
-**Policy version:** 1.0 (Template)
-**Effective date:** [Insert date]
-**Review date:** [Insert date — recommended: 12 months from effective date]
-**Policy owner:** [Insert name and role — e.g., Senior Pastor / Operations Manager / Elder Board]
-**Approved by:** [Insert name and role]
+**[Organisation Name]**  
+**Policy version:** 1.0 (Template)  
+**Effective date:** [Insert date]  
+**Review date:** [Insert date — recommended: 12 months from effective date]  
+**Policy owner:** [Insert name and role — e.g., Senior Pastor / Operations Manager / Elder Board]  
+**Approved by:** [Insert name and role]  
 
 ---
 
-> [!note] How to use this template
-> This is a starting point — not a finished policy. Replace every [bracketed placeholder] with your organisation's specific details.
+> [!note] How to use this template:  
+> This is a starting point — not a finished policy. Replace every [bracketed placeholder] with your organisation's specific details.  
 > Adapt it to your organisation's specific context, culture, and operational needs. Before adopting this policy, have it reviewed by a qualified professional for your specific context — particularly for employment law, data privacy (PDPO), and any sector-specific regulatory requirements.
 > This template does not constitute legal advice. Provided as general information and insight sharing by Win.Win@Skybroad.
 
@@ -59,7 +59,7 @@ This policy applies to:
 - [ ] **All volunteers** in administrative, communications, or ministry-support roles
 - [ ] **Organisation-owned devices** — any person using them
 - [ ] **Personal devices** — any person using them for organisation-related AI tasks
-- [ ] **All AI tools** — whether free, subscription-based, or built into existing software (e.g. Copilot in Microsoft 365), including but not limited to: large language models (ChatGPT, Claude, Gemini, Copilot, and similar); AI writing, translation, or editing tools; AI meeting transcription tools; and AI-powered image or content generation tools
+- [ ] **All AI tools** — whether free, subscription-based, or built into existing software (e.g. Copilot in Microsoft 365), including but not limited to: large language models (ChatGPT, Claude, Gemini, Copilot, and similar); AI writing, translation, or editing tools; AI meeting transcription or summarisation tools; AI-powered data extraction or analysis tools; and AI-powered image or content generation tools
 - [ ] **Personal AI accounts** — e.g. personal ChatGPT, Claude, or Gemini accounts used for any church-related task
 
 ---
@@ -81,11 +81,11 @@ All AI use within this organisation is governed by the following principles:
 
 ## 4. Approved AI Tools
 
-Only tools on the approved list below may be used for organisation-related AI tasks. Staff or volunteers wishing to use a different tool must obtain approval from the Policy Owner before doing so.
+Only the following AI tools are approved for organisation-related AI tasks. People wishing to use a different tool must obtain approval from the Policy Owner before doing so.
 
 | Tool | Approved use | Data restriction |
 |---|---|---|
-| [Insert Tool 1 — e.g., Microsoft Copilot] | [Insert approved use — e.g., drafting internal communications] | [Insert restriction — e.g., no personal data; internal use only] |
+| [Insert Tool 1 — e.g., Microsoft 365 Copilot] | [Insert approved use — e.g., drafting internal communications] | [Insert restriction — e.g., no personal data; internal use only] |
 | [Insert Tool 2 — e.g., Google Gemini] | [Insert approved use] | [Insert restriction] |
 | [Insert Tool 3] | [Insert approved use] | [Insert restriction] |
 
@@ -107,7 +107,7 @@ The following administrative tasks are approved for AI assistance, subject to th
 | Drafting volunteer onboarding materials and role descriptions | ✅ Yes | ✅ Yes — before distribution |
 | Answering internal administrative FAQs (from approved policy documents only) | ✅ Yes | ✅ Yes — review before sharing |
 | Drafting event planning checklists and schedules | ✅ Yes | ✅ Yes — before finalising |
-| Research and fact-finding on general topics | ✅ Yes | ✅ Yes — verification of all facts |
+| Research and fact-finding on general topics | ✅ Yes | ✅ Yes — verification of all facts required  |
 | Translating general communications (not pastoral or doctrinal content) | 🟡 With caution | ✅ Yes — bilingual reviewer required |
 | Drafting internal administrative documents (e.g. standard letters, templates) | 🟡 With caution | ✅ Yes — review before sharing |
 | Sermon administration and planning notes (not pastoral content — admin only) | 🟡 With caution | ✅ Yes — pastor review required |
@@ -299,5 +299,5 @@ By signing below, I confirm that I have read, understood, and will comply with t
 *This template was provided by Win.Win@Skybroad for educational and informational purposes.*
 *It does not constitute legal advice. The organisation adopting this policy is responsible for adapting it to their specific context and seeking independent professional advice where appropriate.*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

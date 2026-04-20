@@ -35,7 +35,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - Creating first drafts — creative content that a human then edits and owns
 - Translation support — first-pass drafts with bilingual human review
 
-> [!warning] Stop if the task affects another person's health, finances, safety, or legal status.
+> [!warning] Stop if the task affects another person's health, finances, safety, or legal status:  
 > These decisions need a human — not a language model.
 
 ---
@@ -51,7 +51,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - **No personal data** — not pasting names, IDs, addresses, phone, health, or financial details
 - **No confidential elements** — not pasting pastoral records, client records, or sensitive information
 
-> [!note] The simple rule
+> [!note] The simple rule:  
 > If you would not write it on a postcard and leave it on a public notice board — do not put it into a public AI tool.
 
 **Never enter into a public AI tool:**
@@ -72,7 +72,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - **Can explain it?** — able to say in plain language why this output is good enough.
 - **Can we correct it?** — if something goes wrong, can we explain and fix it quickly?
 
-> [!important] The accountability test
+> [!important] The accountability test:  
 > Would I be comfortable putting my name on this output and explaining what AI helped produce?
 > If yes — you have done enough. If no — check more.
 
@@ -127,13 +127,13 @@ Do not proceed until you can answer P1, P2, and P3 clearly.
 
 ---
 
-> *"Before you use AI day-to-day — ask 3P.*
+> *Before you use AI day-to-day — ask 3P.*
 > *Before you commit to an AI project — ask 3R.*
-> *If you cannot answer all six clearly, pause and think it through first."*
+> *If you cannot answer all six clearly, pause and think it through first.*
 
 ---
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

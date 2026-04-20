@@ -14,7 +14,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 **How to catch confident mistakes and made-up details**
 
-> [!quote] The core principle
+> [!quote] The core principle:  
 > Treat AI as a draft engine, not a truth engine.
 > AI does not know when it is wrong. It produces incorrect answers with the same confident tone as correct ones.
 > Defending against hallucination is not about trusting AI less — it is about knowing where and how to check.
@@ -76,7 +76,7 @@ It is not a bug that will be fixed. It is a structural feature of how large lang
 ### Pattern 1 — The Confident Fabrication
 AI states a specific fact — statistic, name, date, case number — that does not exist or is wrong.
 
-**How to spot it:** Very specific figures with no named source.
+**How to spot it:** Very specific figures with no named source.  
 **Defence:** Search the exact figure. If you cannot find the primary source in 60 seconds, do not use it.
 
 ---
@@ -84,7 +84,7 @@ AI states a specific fact — statistic, name, date, case number — that does n
 ### Pattern 2 — The Plausible Citation
 AI invents a real-sounding academic paper, legal case, or government document that does not exist.
 
-**How to spot it:** A citation that looks well-formatted but leads nowhere.
+**How to spot it:** A citation that looks well-formatted but leads nowhere.  
 **Defence:** Search the exact title. Verify author, publisher, and date independently. Never cite a source you have not confirmed exists.
 
 ---
@@ -92,15 +92,15 @@ AI invents a real-sounding academic paper, legal case, or government document th
 ### Pattern 3 — The Outdated Fact
 AI states something that was true at training cutoff but is no longer true.
 
-**How to spot it:** Information about regulations or policies stated in present tense with no date anchor.
-**Defence:** For anything regulatory, always verify against the current official source: www.pcpd.org.hk, www.elegislation.gov.hk.
+**How to spot it:** Information about regulations or policies stated in present tense with no date anchor.  
+**Defence:** For anything regulatory, always verify against the current official source such as www.pcpd.org.hk, www.elegislation.gov.hk.
 
 ---
 
 ### Pattern 4 — The Confident Extrapolation
 AI applies a rule from one jurisdiction or context to another where it does not apply.
 
-**How to spot it:** Advice that applies US/UK rules to a HK context, or enterprise-scale guidance applied to an SME.
+**How to spot it:** Advice that applies US/UK rules to a HK context, or enterprise-scale guidance applied to an SME.  
 **Defence:** Always check jurisdiction. If compliance is involved, involve a qualified professional.
 
 ---
@@ -108,7 +108,7 @@ AI applies a rule from one jurisdiction or context to another where it does not 
 ### Pattern 5 — The Smooth Paraphrase Error
 AI summarises a real document but subtly changes meaning — omitting a condition, misrepresenting a threshold, or dropping an exception.
 
-**How to spot it:** Summaries of complex documents, policy paraphrases, legal or financial summaries.
+**How to spot it:** Summaries of complex documents, policy paraphrases, legal or financial summaries.  
 **Defence:** For summaries that affect decisions, compare AI output directly against the source section by section.
 
 ---
@@ -160,12 +160,12 @@ Named for the navigation technique: you need at least three reference points to 
 Ask AI: *"What is your source for this claim? Name the specific document, author, date, and where I can find it."*
 For anything going into a client document, a decision, or an external communication — verify against the original source, not another AI or a summary.
 
-> [!warning] AI giving you a source does not mean the source exists
+> [!warning] AI giving you a source does not mean the source exists:  
 > AI can hallucinate references with the same confidence as facts. Always verify independently — not by asking AI again.
 
 **HK primary sources by topic:**
 
-> If the site does not redirect to its formal site, you may try to put https://www before following primary source. For example, it should be https://www.gov.hk for gov.hk.
+> If the site does not redirect to its formal site, you may try to put prefix "https://www." before following primary sources. For example, it should be https://www.gov.hk for gov.hk.
 
 | Topic | Primary source |
 |---|---|
@@ -337,7 +337,7 @@ Before using any AI output, answer these four questions:
 | **Qualified human available?** | Do not rely on AI for professional judgment |
 | **Can stand behind it?** | If not — check more |
 
-> [!important] The accountability test
+> [!important] The accountability test:  
 > Would I be comfortable standing behind this output if challenged?
 > If yes — you have done enough. If no — check more before using it.
 
@@ -392,5 +392,5 @@ HK PRIMARY SOURCES — bookmark these:
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

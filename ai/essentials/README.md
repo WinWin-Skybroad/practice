@@ -35,7 +35,7 @@ It is designed for:
 
 These materials are offered as general information and insight sharing for independent use. They do not constitute advisory services, legal advice, compliance certification, or technical implementation guidance.
 
-> [!note] About the file format
+> [!note] About the file format:  
 > These files are designed to work best in a free note-taking app called [Obsidian](https://obsidian.md/). However, you do not need Obsidian to use them. You can open any file in a plain text editor, copy the content into Microsoft Word, or simply read it on screen. The formatting may look slightly different outside Obsidian, but all the content will be there.
 
 ---
@@ -68,7 +68,7 @@ This kit is **not written as a government or regulated public-sector package**. 
 
 ---
 
-> [!important] Scope Note
+> [!important] Scope Note:  
 > These materials are offered as **general information and insight sharing only** for independent use. They are not:
 > - advisory services
 > - legal advice
@@ -83,7 +83,7 @@ This kit is **not written as a government or regulated public-sector package**. 
 
 ---
 
-> [!note] What AI actually is
+> [!note] What AI actually is:  
 > AI generates text by predicting what word is most likely to come next —
 > based on patterns in millions of documents. It does not reason, verify,
 > or understand. It can produce a confident, well-written answer that is
@@ -126,7 +126,7 @@ Ask before committing to any AI project:
 | **R2 — Ready** | Are we ready across all four dimensions: data quality and permissions, organisational readiness for change, process design, and governance? |
 | **R3 — Realistic expectations** | Are cost, time, effort, and expected outcomes honestly assessed? |
 
-> [!quote] Teaching summary
+> [!quote] Teaching summary:  
 > Before you use AI day-to-day — ask 3P.
 > Before you commit to an AI project — ask 3R.
 > If you cannot answer all six clearly, pause and think it through first.
@@ -137,16 +137,16 @@ Ask before committing to any AI project:
 
 These apply to every organisation in Hong Kong and are woven throughout these materials.
 
-> [!warning] 1 — PDPO Before You Prompt
+> [!warning] 1 — PDPO Before You Prompt:  
 > Personal data collected for one purpose cannot be used for AI processing without assessment — this is required by Hong Kong's Personal Data (Privacy) Ordinance (PDPO, Cap. 486), specifically Data Protection Principle 3 (DPP3: data must only be used for the purpose it was collected for). When in doubt — leave personal data out. Check www.pcpd.org.hk for guidance.
  
-> [!warning] 2 — Test Traditional Chinese Documents First
+> [!warning] 2 — Test Traditional Chinese Documents First:  
 > Scanned Traditional Chinese documents are often not machine-readable by AI tools. Always paste a test section before processing any TC document at scale.
 
-> [!warning] 3 — Human Review Before It Reaches Anyone
+> [!warning] 3 — Human Review Before It Reaches Anyone:  
 > No AI output goes to a client, congregation member, staff member, or the public without a human reading it first. This is the minimum responsible standard.
 
-> [!warning] 4 — AI Cannot Replace Pastoral Care
+> [!warning] 4 — AI Cannot Replace Pastoral Care:  
 > Pastoral counselling, spiritual direction, and theological authority require a human — always. These are permanently out of scope for AI use in any ministry context.
 
 ---
@@ -189,14 +189,14 @@ These apply to every organisation in Hong Kong and are woven throughout these ma
 | Asset | Format | What it covers |
 |---|---|---|
 | [[Agent Approval Checklist]] | Obsidian | Before AI can act on its own: Tiered approval checklist (Critical Gates / Risk Controls / Good Practices) before enabling any AI agent |
-| [[Minimum Security Baseline for Agentic AI]] | Obsidian | Minimum controls for self-acting AI tools: Seven security controls every agentic AI deployment must meet |
+| [[Minimum Security Baseline for Agentic AI]] | Obsidian | Minimum controls for self-acting AI tools: Security controls every agentic AI deployment must meet |
 
 ### Engagement and Scope
 
 | Asset                               | Format   | What it covers                                                                 |
 |---|---|---|
 | [[Disclaimer and Scope of Service]] | Obsidian | Win.Win@Skybroad disclaimer and scope                                          |
-| [[Church Service Agreement]]        | Obsidian | Plain-language scope record for an engagement — fillable template for churches |
+| [[Church Scope Agreement]]        | Obsidian | Plain-language scope record for an engagement — fillable template for churches |
 
 ### Quick Reference
 
@@ -215,7 +215,7 @@ These apply to every organisation in Hong Kong and are woven throughout these ma
 1. Read [[AI Usage Policy - Church]]
 2. Follow  **Sub-Path 1 — Individual** below
 3. Follow **Sub-Path 2 — Organisation** below
-4. Use [[Church Service Agreement]] to start a conversation with Win.Win@Skybroad
+4. Use [[Church Scope Agreement]] to start a conversation with Win.Win@Skybroad
 ### Path C — General organisation
 1. Read [[AI Usage Policy - Org]] 
 2. Follow  **Sub-Path 1 — Individual** below
@@ -247,13 +247,13 @@ These apply to every organisation in Hong Kong and are woven throughout these ma
 - Financial or investment AI systems — SFC/HKMA regulated; additional requirements apply
 
 **If you want to start a conversation about a specific use case:**
-Use the [[Church Service Agreement]] (churches) or contact Win.Win@Skybroad directly (all other organisations and individuals) to set clear expectations before any session begins.
+Use the [[Church Scope Agreement]] (churches) or contact Win.Win@Skybroad directly (all other organisations and individuals) to set clear expectations before any session begins.
 
 ---
 
 ## Using and Adapting These Materials
 
-All materials are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+All materials are licensed under **Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) )**.
 
 You may:
 - share and redistribute in any format

@@ -14,18 +14,18 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 # AI Usage Policy
 ## For General Organisations
 
-**[Organisation Name]**
-**Policy version:** 1.0 (Template)
-**Effective date:** [Insert date]
-**Review date:** [Insert date — recommended: 12 months from effective date]
-**Policy owner:** [Insert name and role — e.g., Managing Director / Operations Manager / IT Manager]
-**Approved by:** [Insert name and role]
-**Applies to:** All employees, contractors, and business partners acting on behalf of [Organisation Name]
+**[Organisation Name]**  
+**Policy version:** 1.0 (Template)  
+**Effective date:** [Insert date]  
+**Review date:** [Insert date — recommended: 12 months from effective date]  
+**Policy owner:** [Insert name and role — e.g., Managing Director / Operations Manager / IT Manager]  
+**Approved by:** [Insert name and role]  
+**Applies to:** All employees, contractors, and business partners acting on behalf of [Organisation Name]  
 
 ---
 
-> [!note] How to use this template
-> This is a starting-point — not a finished policy. Replace every [bracketed placeholder] with your organisation's specific details. 
+> [!note] How to use this template:  
+> This is a starting point — not a finished policy. Replace every [bracketed placeholder] with your organisation's specific details.  
 > Adapt it to your organisation's specific context, culture, and operational needs. Before adopting this policy, have it reviewed by a qualified professional for your specific context — particularly for employment law, data privacy (PDPO), and any sector-specific regulatory requirements.
 > This template does not constitute legal advice. Provided as general information and insight sharing by Win.Win@Skybroad.
 >
@@ -38,9 +38,17 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 ## 1. Purpose
 
-This policy establishes the rules and boundaries for the use of artificial intelligence (AI) tools within [Organisation Name]. Its purpose is to enable our team to use AI productively and safely — while protecting our clients, our data, our professional reputation, and our obligations under Hong Kong law.
+AI tools offer genuine benefits for efficiency, communication, and the quality of many work tasks. Used well, they can free up time for the work that matters. Used without appropriate boundaries, they can cause harm — including data privacy breaches, factual errors in client communications, confidentiality failures, and reputational or regulatory risk.
 
-AI tools can increase efficiency and improve the quality of many work tasks. Without appropriate boundaries, they can also cause harm — including data privacy breaches, factual errors in client communications, confidentiality failures, and reputational or regulatory risk. This policy captures the benefits while managing those risks.
+This policy exists to help our staff and co-workers:
+
+- **Use AI wisely** — within clear and agreed boundaries
+- **Protect privacy** — of our clients, members, and the people we serve
+- **Preserve integrity** — of our communications and professional reputation
+- **Keep professional judgment human** — decisions affecting people's rights, employment, or welfare belong to accountable human staff
+- **Meet legal obligations** — under Hong Kong's Personal Data (Privacy) Ordinance (Cap. 486)
+
+This policy does not prohibit the use of AI. It establishes the boundaries that allow AI to be used in a manner consistent with our values, our legal obligations, and our duty of care to the people we serve.
 
 ---
 
@@ -52,7 +60,8 @@ This policy applies to:
 - [ ] **Contractors, consultants, and temporary workers** engaging in organisation business
 - [ ] **Organisation-owned devices** — any person using them
 - [ ] **Personal devices** — any person using them for organisation-related AI tasks
-- [ ] **All AI tools** used for business purposes, including: large language models (ChatGPT, Claude, Gemini, Copilot, and similar); AI writing, editing, or translation tools; AI meeting transcription or summarisation tools; and AI-powered data extraction or analysis tools
+- [ ] **All AI tools** — whether free, subscription-based, or built into existing software (e.g. Copilot in Microsoft 365), including but not limited to: large language models (ChatGPT, Claude, Gemini, Copilot, and similar); AI writing, translation, or editing tools; AI meeting transcription or summarisation tools; AI-powered data extraction or analysis tools; and AI-powered image or content generation tools
+- [ ] **Personal AI accounts** — e.g. personal ChatGPT, Claude, or Gemini accounts used for any organisation-related task
 
 ---
 
@@ -60,7 +69,7 @@ This policy applies to:
 
 All AI use within this organisation is governed by the following principles:
 
-| Principle | What it means |
+| Principle | What it means in practice |
 |---|---|
 | **Human review is mandatory** | Every AI output that is used in business must be reviewed and verified by a responsible employee before use. Speed is never a reason to skip this step. |
 | **Client data is protected** | Client personal data, confidential information, and unpublished business data are never entered into public AI tools. |
@@ -73,12 +82,12 @@ All AI use within this organisation is governed by the following principles:
 
 ## 4. Approved AI Tools
 
-Only the following AI tools are approved for business use. Employees wishing to use any tool not on this list must obtain written approval from the Policy Owner before using it for business purposes.
+Only the following AI tools are approved for organisation-related AI tasks. People wishing to use a different tool must obtain approval from the Policy Owner before doing so.
 
-| Tool | Approved business use | Data restriction |
+| Tool | Approved use | Data restriction |
 |---|---|---|
-| [Insert Tool 1 — e.g., Microsoft 365 Copilot] | [e.g., Drafting internal documents, summarising meetings] | [e.g., No client personal data; internal use only] |
-| [Insert Tool 2 — e.g., Claude.ai] | [e.g., Drafting client communications (with review)] | [e.g., No confidential client data; no business financials] |
+| [Insert Tool 1 — e.g., Microsoft 365 Copilot] | [Insert approved use — e.g., drafting internal communications] | [Insert restriction — e.g., no personal data; internal use only] |
+| [Insert Tool 2 — e.g., Google Gemini] | [Insert approved use] | [Insert restriction] |
 | [Insert Tool 3] | [Insert approved use] | [Insert restriction] |
 
 > [!note] This approved tool list should be reviewed annually or whenever a new tool is proposed for use.
@@ -88,9 +97,9 @@ Only the following AI tools are approved for business use. Employees wishing to 
 
 ## 5. Approved Use Cases
 
-The following administrative tasks are approved for AI assistance, subject to mandatory human review before any output is used or shared:
+The following administrative tasks are approved for AI assistance, subject to the human review requirement in Section 9.
 
-| Use case | Approved | Review required |
+| Use case | Approved | Human review required |
 |---|---|---|
 | Drafting client emails and correspondence | ✅ Yes | ✅ Yes — employee must read and verify before sending |
 | Drafting internal communications and notices | ✅ Yes | ✅ Yes — sender responsible for accuracy |
@@ -106,7 +115,7 @@ The following administrative tasks are approved for AI assistance, subject to ma
 
 ## 6. Prohibited Use Cases — The Red Lines
 
-The following uses are **not permitted** under this policy:
+The following uses are **not permitted** under any circumstances. These 'red lines' exist to protect our organisational integrity:
 
 - [ ] **Client personal data in public AI tools** — Client names, HKID numbers, contact details, financial details, health information, or any personal data must never be entered into a public or personal AI tool.
 - [ ] **Confidential business information in unapproved tools** — Trade secrets, unpublished financial data, client contracts, pricing strategies, or proprietary business information must not be entered into any unapproved AI tool.
@@ -306,5 +315,5 @@ By signing below, I confirm that I have read, understood, and will comply with t
 *This template was provided by Win.Win@Skybroad for educational and informational purposes.*
 *It does not constitute legal advice. The organisation adopting this policy is responsible for adapting it to their specific business context and obtaining independent professional advice where appropriate, including in relation to PDPO compliance and employment law.*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

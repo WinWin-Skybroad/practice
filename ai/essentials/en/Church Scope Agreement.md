@@ -1,5 +1,5 @@
 ---
-title: Church Service Agreement
+title: Church Scope Agreement
 created: 2026-04-04
 version: "1.0"
 tags:
@@ -11,7 +11,7 @@ status: active
 type: agreement
 licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad
 ---
-# Church Service Agreement
+# Church Scope Agreement
 > [!note]  Complete provider name before printing or sharing.
 
 **Win.Win@Skybroad**
@@ -24,11 +24,11 @@ winwin.skybroad@gmail.com
 > [!note] Complete one copy per engagement. Both parties sign. Keep your copy on file.
 
 
-> [!important] Before any engagement begins
+> [!important] Before any engagement begins:  
 > This agreement must be completed and signed by both parties before any working session starts.
-> No engagement begins without a signed service Agreement. This protects both parties.
+> No engagement begins without a signed scope agreement. This protects both parties.
 
-> [!quote] What this document is
+> [!quote] What this document is:  
 > A plain-language written record of the agreed scope, boundaries, and expectations for this engagement.
 > It should be read together with the [[Disclaimer and Scope of Service]].
 > It is not a legal contract. For formal commercial engagements, a solicitor-reviewed terms document is recommended.
@@ -161,7 +161,7 @@ _______________________________________________________________________________
 ### 4.2 Confidentiality
 
 Both parties agree:
-- **Win.Win@Skybroad keeps confidence** — information shared during this engagement treated as confidential
+- **Win.Win@Skybroad keeps confidentiality** — information shared during this engagement treated as confidential
 - **No public identification** — Win.Win@Skybroad will not identify the client organisation in any public communication or teaching material without separate written permission (see Part E)
 - **Client manages internally** — the client is responsible for managing the confidentiality of their own information internally
 
@@ -212,32 +212,32 @@ This engagement pauses or ends immediately if any of the following occur:
 
 ## 7. Signatures
 
-By signing below, both parties confirm they have read, understood, and agreed to the terms of this service agreement, and understand the nature and limits of the engagement described.
+By signing below, both parties confirm they have read, understood, and agreed to the terms of this scope agreement, and understand the nature and limits of the engagement described.
 
 ---
 
 **Win.Win@Skybroad (Provider)**
 
-Legal name: ___________________________
-Trading as: Win.Win@Skybroad
-Signature: ___________________________
-Date: ___________________________
+Legal name: ___________________________  
+Trading as: Win.Win@Skybroad  
+Signature: ___________________________  
+Date: ___________________________  
 
 ---
 
 **Client Organisation**
 
-Organisation: ___________________________
-Name: ___________________________
-Role: ___________________________
-Signature: ___________________________
-Date: ___________________________
+Organisation: ___________________________  
+Name: ___________________________  
+Role: ___________________________  
+Signature: ___________________________  
+Date: ___________________________  
 
 ---
 
 ## 8. Notes and Amendments
 
-*Any agreed changes to this service agreement during the engagement:*
+*Any agreed changes to this scope agreement during the engagement:*
 
 | Date | Amendment | Agreed by (both parties) |
 |---|---|---|
@@ -246,13 +246,13 @@ Date: ___________________________
 
 ---
 
-> [!note] Reminder before every meeting
-> Review Part B (what this engagement is) and Part B4 (what will not be done) before starting.
+> [!note] Reminder before every meeting:  
+> Review Part 2 (what this engagement is) and Part 2.4 (what will not be done) before starting.
 > If the conversation is moving outside these boundaries — name it clearly and decide whether to amend the scope in writing or stop.
 
 ---
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

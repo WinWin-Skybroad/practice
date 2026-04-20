@@ -15,7 +15,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 ---
 # HK Safe AI Use Pack and Prompt Pattern Library
 
-> [!quote] One sentence
+> [!quote] One sentence:  
 > Safe AI use in Hong Kong means applying the right habits, knowing the local rules, and reviewing every output before it reaches anyone.
 
 **What this pack is:** A Hong Kong-specific reference and a library of copy-paste prompt templates for the most common admin tasks.
@@ -33,7 +33,7 @@ Most AI guidance is written for a US or UK audience. Hong Kong has its own legal
 | HK-specific factor | What it means for AI use |
 |---|---|
 | **PDPO (Cap. 486)** | Personal data collected for one purpose cannot be used for AI without assessment. Six Data Protection Principles apply — especially DPP 3 (use limitation). |
-| **Traditional Chinese (繁體字)** | Scanned TC documents are often not machine-readable. AI may read images as blank or hallucinate content. Always test. |
+| **Traditional Chinese (繁體字)** | Scanned TC documents may not be machine-readable. AI may read images as blank or hallucinate content. Always test. |
 | **Cantonese code-switching** | Meeting transcripts with mixed Cantonese/English/TC are high-risk for AI summarisation. Errors compound and are hard to spot. |
 | **HK legal specificity** | AI is trained predominantly on US/UK law. HK-specific ordinances, SFC rules, and HKMA guidance are frequently wrong in AI output. Always verify on elegislation.gov.hk. |
 | **Church and pastoral** | AI must never substitute for pastoral care, theological authority, or confidential spiritual counsel. |
@@ -47,20 +47,20 @@ Most AI guidance is written for a US or UK audience. Hong Kong has its own legal
 
 These apply to every AI use, every time, in every HK context:
 
-> [!warning] Rule 1 — PDPO Before You Prompt
+> [!warning] Rule 1 — PDPO Before You Prompt:  
 > Before putting any data into an AI tool, ask:
 > - Was this data collected for a purpose that includes AI processing?
 > - Do the people whose data this is know it may be processed by AI?
 > - Is this data sensitive (medical, financial, HR, pastoral, HKID)?
 > If you cannot answer yes to the first two, or if the answer to the third is yes — stop.
 
-> [!warning] Rule 2 — Check Traditional Chinese Readability
+> [!warning] Rule 2 — Check Traditional Chinese Readability:  
 > Before using AI on any Traditional Chinese document:
 > - Is it a digital text file (Word, typed PDF)? → Likely readable
-> - Is it a scanned image or photo of a document? → Likely NOT readable — AI may return empty or hallucinate
-> Always paste a short section first and verify AI can read it before processing the full document.
+> - Is it a scanned image or photo of a document? → Readability is uncertain — AI may misread, omit, or “correct” characters without warning (especially handwritten Traditional Chinese).   
+> **Mandatory:** Perform a spot check by comparing at least one full paragraph of the AI output against the original image.
 
-> [!warning] Rule 3 — Human Review Before It Reaches Anyone
+> [!warning] Rule 3 — Human Review Before It Reaches Anyone:  
 > No AI output goes to a client, congregation member, staff member, or the public without a human reading it first.
 > This is not optional. It is the minimum responsible standard.
 
@@ -148,7 +148,7 @@ Before choosing a pattern, find your task below and go directly to the right sec
 | **Handle scripture or theology content safely** | 2.6 — Scripture / Theology Safety |
 | **Verify a Hong Kong law or regulation question** | 2.7 — HK Regulatory Verification |
 
-> [!note] Not sure which task applies?
+> [!note] Not sure which task applies?  
 > Use the **3P check** first — Purpose, Permission, Proof.
 > If you cannot answer all three clearly, the task may not be ready for AI yet.
 
@@ -166,7 +166,7 @@ The full patterns below are longer because higher-stakes tasks need more structu
 
 ---
 
-> [!note] How to use these patterns
+> [!note] How to use these patterns:  
 > Each pattern is a reusable template. Replace the parts in [square brackets] with your specific details.
 > Copy the whole block — including the instructions — for best results.
 > Apply the 3P check (Purpose / Permission / Proof) before every task.
@@ -229,7 +229,7 @@ Rule:
 ### 2.2 Communication Drafting Patterns
 
 #### Pattern: Email / Announcement Draft
-**Use case:** Drafting a routine announcement, email, or notice from bullet-point notes
+**Use case:** Drafting a routine announcement, email, or notice from bullet-point notes  
 **Risk level:** 🟢 Green
 
 ```
@@ -254,7 +254,7 @@ Content (use only what I provide — do not add information I have not given):
 ---
 
 #### Pattern: WhatsApp / Telegram Broadcast
-**Use case:** Short broadcast messages under 150 words
+**Use case:** Short broadcast messages under 150 words  
 **Risk level:** 🟢 Green
 
 ```
@@ -276,7 +276,7 @@ Instruction:
 ---
 
 #### Pattern: Bilingual Draft (English + Traditional Chinese)
-**Use case:** Any content needing both English and TC versions
+**Use case:** Any content needing both English and TC versions  
 **Risk level:** 🟢 Green with review
 ```
 Task: Write the following in both English and Traditional Chinese (繁體中文).
@@ -286,7 +286,7 @@ Instruction:
 - Use Traditional Chinese characters throughout — NOT Simplified Chinese
 - Use [formal / warm / plain] register appropriate for [church congregation / business clients / volunteers]
 - Keep any proper nouns, organisation names, or ministry names in their original form; add a TC phonetic note in brackets only if it genuinely helps
-- If any term is ambiguous in TC, flag it: [TC REVIEWER: please check this term]
+- If any term is ambiguous in TC, flag it: {TC REVIEWER: please check this term}
 - Do not strengthen or soften the tone beyond the source material
 - After the draft, flag any terms needing human verification, especially theological, legal, or technical terms.
 
@@ -299,7 +299,7 @@ Content (English source):
 ---
 
 #### Pattern: Grant or Funding Report Section
-**Use case:** Generating a first draft of any grant or funding report section
+**Use case:** Generating a first draft of any grant or funding report section  
 **Risk level:** 🟡 Amber — requires human and professional review
 
 ```
@@ -315,7 +315,7 @@ Information Provided (use only this — do not invent):
 
 Rule:
 - Do NOT generate, estimate, or invent any statistics, percentages, impact numbers, or research citations.
-- If I have not provided a specific figure, write [STATISTIC REQUIRED — TO BE VERIFIED] as a placeholder.
+- If I have not provided a specific figure, write {STATISTIC REQUIRED — TO BE VERIFIED} as a placeholder.
 
 Output Format: Flowing prose, [LENGTH] words, [formal / warm] tone.
 ```
@@ -323,7 +323,7 @@ Output Format: Flowing prose, [LENGTH] words, [formal / warm] tone.
 ---
 
 #### Pattern: Volunteer or Staff Role Description
-**Use case:** Draft a volunteer or staff role description
+**Use case:** Draft a volunteer or staff role description  
 **Risk level:** 🟡 Amber — requires human and professional review
 
 ```
@@ -353,7 +353,7 @@ Content:
 ### 2.3 Summarisation Patterns
 
 #### Pattern: Document Summary
-**Use case:** Summarize a document
+**Use case:** Summarize a document  
 **Risk level:** 🟡 Amber — requires human review
 
 ```
@@ -369,7 +369,7 @@ Output Format:
 
 Rule:
 - Use only the document provided — do not add outside context
-- If something is unclear in the original, write [UNCLEAR IN ORIGINAL]
+- If something is unclear in the original, write {UNCLEAR IN ORIGINAL}
 - Do not express opinions about the content
 - List any key conditions, qualifications, or exceptions in the original that must not be overlooked
 - List any specific figures, dates, thresholds, or deadlines I should verify
@@ -382,7 +382,7 @@ Document:
 ---
 
 #### Pattern: Meeting Notes Summary
-**Use case:** Turning raw meeting notes or transcripts into structured output
+**Use case:** Turning raw meeting notes or transcripts into structured output  
 **Risk level:** 🟡 Amber — verify speaker attribution
 
 ```
@@ -397,9 +397,9 @@ Output Format:
 
 Rule:
 - Do not infer decisions or action items not explicitly stated
-- If a speaker's name is unclear, write [SPEAKER UNCLEAR] — do not guess
-- If a date was not stated, write [DATE NOT SPECIFIED] — do not infer
-- Flag any unclear section with [VERIFY]
+- If a speaker's name is unclear, write {SPEAKER UNCLEAR} — do not guess
+- If a date was not stated, write {DATE NOT SPECIFIED} — do not infer
+- Flag any unclear section with {VERIFY}
 
 Reminder: This output requires human review by someone who attended the meeting before distribution.
 
@@ -412,7 +412,7 @@ Source Material:
 ### 2.4 Research and Verification Patterns
 
 #### Pattern: Source-Grounded Q&A
-**Use case:** Policy Q&A, HR queries, compliance checks where source fidelity matters
+**Use case:** Policy Q&A, HR queries, compliance checks where source fidelity matters  
 **Risk level:** 🟡 Amber — verify citations
 
 ```
@@ -423,7 +423,7 @@ Question: [Insert your question]
 Rule:
 - If the answer is not in the document(s), say: "I cannot find this in the provided sources."
 - Cite the specific section, page, or paragraph for each claim.
-- If you are uncertain, flag it explicitly with "[UNCERTAIN]".
+- If you are uncertain, flag it explicitly with "{UNCERTAIN}".
 - Do not invent, infer, or assume beyond the provided text.
 
 Output format:
@@ -438,7 +438,7 @@ Document(s):
 ---
 
 #### Pattern: Calibrated Research (HK)
-**Use case:** Any research question needing HK-specific grounding
+**Use case:** Any research question needing HK-specific grounding  
 **Risk level:** 🟡 Amber
 
 ```
@@ -457,7 +457,7 @@ My question: [question]
 ---
 
 #### Pattern: Hallucination Check
-**Use case:** Verifying AI output before acting on it
+**Use case:** Verifying AI output before acting on it  
 **Risk level:** 🟡 Amber
 
 ```
@@ -475,7 +475,7 @@ Content to review: [paste AI output] or attach a document and mention the docume
 ### 2.5 Policy Draft and Query
 
 #### Pattern: Policy Draft
-**Use case:** Generating a draft of any organisational policy
+**Use case:** Generating a draft of any organisational policy  
 **Risk level:** 🟡 Amber — requires human and professional review
 
 ```
@@ -490,8 +490,6 @@ Instruction:
   - Flag sections a Hong Kong solicitor should review before adoption
   - Flag HK-specific legal requirements I should verify
 
-Output Format: Plain answer in 2–4 sentences, followed by the policy section reference if applicable.
-
 Content:
 [Paste policy detail or bullet points here] or attach a document and mention the document name here, e.g. attached [Document Name]
 ```
@@ -499,19 +497,21 @@ Content:
 ---
 
 #### Pattern: Answer a policy question
-**Use case:** Answer a policy question from an existing policy document
+**Use case:** Answer a policy question from an existing policy document  
 **Risk level:** 🟡 Amber — requires human review
 
 ```
 Task: Answer a policy question from an existing policy document.
 
 Instruction:
-- Answer only from the policy document above
+- Answer only from the policy document
 - If the answer is clearly stated, provide it and quote the relevant section
 - If the answer is not in the policy, respond: "This question is not directly covered by the current policy. Please contact [CONTACT ROLE] for guidance."
 - Do not interpret, infer, or go beyond what the policy explicitly states
 - Do not provide legal advice or compliance assurance
 - Be written in plain English, accessible to non-legal readers
+
+Output Format: Plain answer in 2–4 sentences, followed by the policy section reference if applicable.
 
 Policy Document:
 [Paste the approved policy text here] or attach a document and mention the document name here, e.g. attached [Document Name]
@@ -553,7 +553,7 @@ Instruction:
 ### 2.7 HK-Specific Compliance Patterns
 
 #### Pattern: PDPO Pre-Check
-**Use case:** Any task involving personal data
+**Use case:** Any task involving personal data  
 **Risk level:** 🟡 Amber — requires human review
 
 ```
@@ -575,7 +575,7 @@ Content:
 ---
 
 #### Pattern: HK Regulatory Verification
-**Use case:** Any HK law, regulation, or compliance question
+**Use case:** Any HK law, regulation, or compliance question  
 **Risk level:** 🟡 Amber — requires human review
 
 ```
@@ -596,5 +596,5 @@ Instruction:
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

@@ -6,9 +6,6 @@ tags:
   - WinWin-Skybroad
   - disclaimer
   - scope-of-service
-  - bilingual
-  - PDPO
-  - legal-adjacent
 status: active
 type: disclaimer
 licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad
@@ -25,7 +22,7 @@ winwin.skybroad@gmail.com
 
 ---
 
-> [!important] Before reading further
+> [!important] Before reading further:  
 > This disclaimer applies to all materials, conversations, written guidance, templates, checklists, frameworks, and any other content produced or shared by Win.Win@Skybroad — whether provided in person, in writing, by email, or through any published collection such as Win.Win AI Essentials.
 
 ---
@@ -143,7 +140,7 @@ To the fullest extent permitted by applicable Hong Kong law, Win.Win@Skybroad sh
 
 This limitation applies whether or not Win.Win@Skybroad was advised of the possibility of such loss or damage.
 
-> [!note] Hong Kong legal context
+> [!note] Hong Kong legal context:  
 > This disclaimer is designed to explain the honest limits of a general information and advisory service, not to exclude or restrict liability beyond what Hong Kong law permits. For formal paid engagements or higher-risk work, legal review by a Hong Kong solicitor is recommended.
 
 ---
@@ -166,5 +163,5 @@ winwin.skybroad@gmail.com
 
 ---
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

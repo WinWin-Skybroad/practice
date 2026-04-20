@@ -1,5 +1,5 @@
 ---
-title: AI Safety Checklist — Personal
+title: AI Safety Checklist - Personal
 created: 2026-04-04
 version: "1.0"
 tags:
@@ -14,11 +14,12 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 ---
 # AI Safety Checklist — Personal
 
-> [!info] Use case record
-> **Task:** (e.g. church newsletter drafting, meeting note summarisation)
-> **Date:**
-> **AI tool used:**
-> **Filled in by:**
+> [!info] Use case record:  
+> 
+> **Task:** (e.g. church newsletter drafting, meeting note summarisation)  
+> **Date:**  
+> **AI tool used:**  
+> **Filled in by:**  
 
 > [!quote] Why this matters
 > AI tools are powerful — and easy to misuse by accident.
@@ -49,7 +50,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **No decisions about people** — not affecting health, finances, safety, or legal status
 
 
-> [!warning] Stop if you are about to let AI make a decision about another person
+> [!warning] Stop if you are about to let AI make a decision about another person:  
 > Medical, financial, legal, pastoral, and welfare decisions need a human being — not a language model.
 
 ---
@@ -67,7 +68,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Anonymised where possible** — names and identifiers removed
 - [ ] **Training opt-out** — checked privacy settings; know what data is stored or used for training
 
-> [!note] The simple rule
+> [!note] The simple rule:  
 > If you would not write it on a postcard and leave it on a public notice board, do not put it into a public AI tool.
 
 ---
@@ -84,7 +85,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 > [!note] Polished is not proof.
 
-> [!important] The accountability test
+> [!important] The accountability test:  
 > Would I be comfortable putting my name on this output and explaining what AI helped produce?
 > If yes — you have done enough. If no — check more.
 
@@ -102,7 +103,7 @@ Watch for these and verify before trusting any of them:
 - [ ] **100% confident tone** — no uncertainty or caveats: a warning sign
 - [ ] **Polished, no evidence** — authoritative-sounding but nothing specific to back it up
 
-> [!warning] Red Flags — Stop and Reconsider
+> [!warning] Red Flags — Stop and Reconsider:   
 > Stop and slow down if:
 > - **Affects someone's rights** — eligibility, reputation, finances, or wellbeing
 > - **Professional judgment needed** — legal, medical, financial, HR, pastoral, or compliance
@@ -200,5 +201,5 @@ If all three are yes — you have done the minimum responsible thing.
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

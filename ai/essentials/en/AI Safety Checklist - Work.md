@@ -14,13 +14,14 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 ---
 # AI Safety Checklist — Work
 
-> [!info] Use case record
-> **Task:** (e.g. church newsletter drafting, meeting note summarisation)
-> **Date:**
-> **AI tool used:**
-> **Filled in by:**
+> [!info] Use case record:  
+> 
+> **Task:** (e.g. church newsletter drafting, meeting note summarisation)  
+> **Date:**  
+> **AI tool used:**  
+> **Filled in by:**  
 
-> [!quote] Why this matters at work
+> [!quote] Why this matters at work:  
 > Using AI at work creates responsibilities you may not have when using AI personally.
 > You are handling your organisation's information, your clients' trust, and your professional reputation.
 > "AI said it" is not a professional defence. You are responsible for what you submit.
@@ -44,7 +45,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Allowed tasks** — which tasks may AI help with, and which are off-limits?
 - [ ] **Who to ask** — who do I go to if unsure about a specific AI use?
 
-> [!important] If your organisation has no AI policy yet
+> [!important] If your organisation has no AI policy yet:  
 > Follow this checklist as your personal standard until a policy exists.
 > Raise with your manager that a policy is needed. You may share the AI Usage Policy template from Win.Win@Skybroad as a starting point.
 
@@ -60,7 +61,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Within policy** — the use case fits what my organisation permits
 - [ ] **Know the cost** — clear about what a wrong output would mean
 
-> [!warning] AI is a drafting and support tool — not a decision-maker
+> [!warning] AI is a drafting and support tool — not a decision-maker:  
 > Final decisions about people, contracts, compliance, and client commitments must be made by a human.
 
 ---
@@ -88,7 +89,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Sensitive HR/pastoral** — personnel matters, pastoral disclosures
 - [ ] **Uncomfortable publicly?** — if I would not share it publicly, do not enter it
 
-> [!note] The simple rule
+> [!note] The simple rule:  
 > If you would not write it on a postcard and leave it on a public notice board, do not put it into a public AI tool.
 > This applies to client data, internal financials, strategic plans, and personal details.
 
@@ -98,7 +99,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Client materials?** — confirm your organisation permits AI use on client work
 - [ ] **Compliance documents?** — confirm the AI tool meets data handling requirements
 
-> [!note] HK-specific — PDPO Data Protection Principle 3
+> [!note] HK-specific — PDPO Data Protection Principle 3:  
 > Personal data collected for one purpose cannot be used for a materially different purpose without consent.
 > Using a client's personal data in an AI tool may violate PDPO even if the data stays within your organisation.
 > When in doubt — leave personal data out.
@@ -108,12 +109,12 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 ### P3 · Proof — Can I verify, track, and be accountable for what AI produces?
 
 - [ ] **Read full output** — before using it in any work context
+- [ ] **Can stand behind it?** — comfortable if challenged
 - [ ] **Verify claims** — facts, figures, citations, legal references checked
 - [ ] **Expect errors** — AI can hallucinate confidently; I know this
 - [ ] **Can explain it?** — able to tell my manager or client what AI helped with
-- [ ] **Can stand behind it?** — comfortable if challenged
 
-> [!warning] "AI said it" is not an excuse
+> [!warning] "AI said it" is not an excuse:  
 > You are responsible for work you submit. If AI produced an error you did not catch, the error is yours.
 > The employee who generates the content is the owner and is responsible for fact-checking and quality control.
 
@@ -175,7 +176,7 @@ If your organisation is using AI tools that can take actions — send emails, up
 - [ ] **Can pause or reverse** — a way to stop or undo the AI's actions if something goes wrong
 - [ ] **Actions are logged** — AI actions are recorded and auditable
 
-> [!warning] Agentic AI can act before you notice
+> [!warning] Agentic AI can act before you notice:  
 > If an AI tool can send messages, submit forms, or update data, assume it will — set clear boundaries before enabling it.
 
 ---
@@ -268,5 +269,5 @@ If all three are yes — you have done the minimum responsible thing.
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

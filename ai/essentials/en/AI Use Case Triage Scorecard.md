@@ -14,7 +14,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 ---
 # AI Use-Case Triage Scorecard
 
-> [!quote] Purpose
+> [!quote] Purpose:  
 > Before committing time and resources to any AI project, spend 20 minutes answering these questions.
 > The score tells you whether to start now, fix something first, or stop entirely.
 
@@ -99,7 +99,11 @@ Answer each question honestly. Use the scoring guide below. Add up each section 
 - [ ] **People decisions** — task involves eligibility, access, or welfare of a person
 
 **HK gate — Traditional Chinese readability:**
-- [ ] **TC documents?** — are they typed digital text (not scanned images)? *(Scanned TC = automatic Red — do not proceed without resolving)*
+- [ ] **TC documents?** — are they in typed digital format (not scanned images)?  *(Scanned TC — especially handwritten — without testing = automatic Red. Do not proceed until tested and issues are resolved.)*
+
+> [!warning] Using images introduces a "hidden" risk that native text does not:  
+> - **Silent Hallucination:** AI tools may "fix" messy handwriting or blurry Traditional Chinese characters without telling the user, potentially changing the meaning of a document.  
+ > - **Verification Burden:** When the source is an image, the human reviewer must work harder to cross-reference the output against the visual source.
 
 *My P2 score:* ___
 
@@ -152,7 +156,7 @@ Answer each question honestly. Use the scoring guide below. Add up each section 
 ### R2 · Ready (0–2 points)
 **Are we ready to proceed — across data, organisation, process, and governance?**
 
-> [!note] Why "Ready" covers more than data
+> [!note] Why "Ready" covers more than data:  
 > Most AI projects fail not because of bad technology, but because something else was not ready: the data was messy, the team was not prepared for change, the existing process had no place for AI output to land, or nobody thought through who is accountable. This question checks all four readiness dimensions before you commit.
 
 | Score | Situation |
@@ -169,8 +173,8 @@ Answer each question honestly. Use the scoring guide below. Add up each section 
 
 | Check | Status |
 |---|---|
-| **Digital text** — typed, not scanned images | Pass / Fail |
-| **TC machine-readable** — not image-based | Pass / Fail |
+| **Native Digital Text** — searchable, not just a picture of text | Pass / Fail |
+| **TC Image Reliability** — if scanned/handwritten, has been tested for accuracy | Pass / Fail |
 | **Consistent format** — naming and structure across sources | Pass / Fail |
 | **PDPO passed** — no sensitive personal data; Principle 3 check done | Pass / Fail |
 | **Complete enough** — for the intended task | Pass / Fail |
@@ -229,13 +233,14 @@ Answer each question honestly. Use the scoring guide below. Add up each section 
 - **No baseline** — no current metric to compare improvement against
 
 **R3 Red Flags — if any apply, score 0:**
-- [ ] **No baseline** — no current measure to compare improvement against
+- [ ] **No baseline (quantitative cases)** — no current measure to compare time, cost, or performance improvement
+- [ ] **Undefined value (qualitative cases)** — no clear way to judge whether outputs are better (e.g. clarity, consistency, risk)
 - [ ] **No named owner** — no owner or sponsor for this project
 - [ ] **Fully automated** — human review has not been planned
 
 *My R3 score:* ___
 
-**3R Subtotal:** ___ / 6**
+**3R Subtotal:** ___ / 6
 
 ---
 
@@ -433,5 +438,5 @@ Approved by: _______________  Date: _______________
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

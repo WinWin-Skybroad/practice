@@ -14,10 +14,10 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 **Before AI can act on its own**
 
-> [!note] **Who this is for:** 
+> [!note] **Who this is for:**  
 > Technology leads, operations managers, and IT-capable staff considering AI tools that take automated actions. Most churches and small organisations starting with AI do not need this document yet. If you are only using AI to draft text for human review, start with the [[3P Framework Poster]] and [[AI Safety Checklist - Work]] instead.
 
-> [!quote] The key difference
+> [!quote] The key difference:  
 > A standard AI tool responds. An AI agent acts.
 > Before you give AI the ability to send messages, update records, book meetings, submit forms, or make purchases — you need different controls. This checklist is those controls.
 
@@ -43,7 +43,7 @@ An AI agent: the AI can take actions — sending emails, updating records, booki
 
 **Why agents require different controls:** With a standard AI tool, you see the output before anything happens. With an agent, actions may already be taken before you notice. Errors can propagate across multiple steps. Reversing them may be difficult or impossible.
 
-> [!important] Ask this first
+> [!important] Ask this first:  
 > Could this workflow be achieved with a well-designed prompt and a human clicking send — rather than a fully autonomous agent?
 > Many workflows that seem to need an agent work just as well with a good prompt and a human in the loop.
 > If yes — use the simpler approach. Agents amplify both value and risk.
@@ -86,7 +86,7 @@ An AI agent: the AI can take actions — sending emails, updating records, booki
 | C4 | **Tested** — with edge cases and failure scenarios before deployment? | ☐ | ☐ | ☐ | |
 | C5 | **Emergency stop** — a way to pause or roll back immediately? | ☐ | ☐ | ☐ | |
 
-> [!warning] Hard stop
+> [!warning] Hard stop:  
 > If any Critical Gate is "No" — do not proceed until it is resolved.
 > These are not optional.
 
@@ -103,7 +103,7 @@ An AI agent: the AI can take actions — sending emails, updating records, booki
 | R5 | **Fallback plan** — if the agent fails or behaves unexpectedly? | ☐ | ☐ | ☐ | |
 | R6 | **Re-certification** — defined process every 3 months to prevent goal creep? | ☐ | ☐ | ☐ | |
 
-> [!note] Caution
+> [!note] Caution:  
 > If any Risk Control is "No" — document an explicit mitigation before proceeding.
 
 ---
@@ -217,16 +217,16 @@ Step 6: Agent logs the action and confirms to human
 
 ## 12. Approval Record
 
-**Agent name:** ___________________________
-**Purpose:** ___________________________
-**Proposed by:** Name: _______________ Role: _______________
-**Assessment date:** ___________________________
-**Approved actions:** ___________________________
-**Prohibited actions:** ___________________________
-**Responsible human:** ___________________________
-**Kill switch location:** ___________________________
-**Log review schedule:** ___________________________
-**Review date:** ___________________________
+**Agent name:** ___________________________  
+**Purpose:** ___________________________  
+**Proposed by:** Name: _______________ Role: _______________  
+**Assessment date:** ___________________________  
+**Approved actions:** ___________________________  
+**Prohibited actions:** ___________________________  
+**Responsible human:** ___________________________  
+**Kill switch location:** ___________________________  
+**Log review schedule:** ___________________________  
+**Review date:** ___________________________  
 
 **Critical Gates:** All C1–C5 marked Yes ☐
 
@@ -237,7 +237,7 @@ Step 6: Agent logs the action and confirms to human
 - [ ] Not approved — gates failed: ___________________________
 - [ ] Requires further review by: ___________________________
 
-**Approved by:** ___________________________ **Date:** _______________
+**Approved by:** ___________________________ **Date:** _______________  
 
 **Next re-certification review:** ___________________________ (recommended: 3 months from approval)
 
@@ -270,5 +270,5 @@ Fully autonomous agents — ones that send communications, update records, or ma
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

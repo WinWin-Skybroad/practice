@@ -17,7 +17,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 **Before building AI that answers from your documents**
 
-> [!quote] What this is for
+> [!quote] What this is for:  
 > RAG (Retrieval-Augmented Generation) lets AI answer questions by searching your own documents rather than relying on its training data alone. It sounds powerful — and it can be. But it only works if your documents are clean, current, organised, and legally permitted to use.
 > This assessment helps you find out whether you are ready before you start building.
 
@@ -72,7 +72,7 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 - [ ] **Compatible purpose** — documents were created for purposes compatible with AI processing
 - [ ] **Purpose articulated** — we can explain why AI processing is consistent with the original collection purpose
 
-> [!warning] PDPO Principle 3
+> [!warning] PDPO Principle 3:  
 > Personal data collected for one purpose must not be used for a materially different purpose without consent. Using HR files, client records, or pastoral notes to power an AI Q&A system is almost certainly a new purpose requiring fresh assessment.
 
 #### G1.2 Personal Data Assessment
@@ -102,7 +102,7 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 
 #### Gate 1 result: Pass / Fail
 
-> [!warning] Gate 1 is a hard stop
+> [!warning] Gate 1 is a hard stop:  
 > If any item above is "No" or "Unsure" — do not proceed to Gate 2 until it is resolved.
 > A legal or data permission problem found after building is far more costly than finding it now.
 
@@ -142,7 +142,7 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 - [ ] **No conflicting versions** — or if they exist, the correct version is clearly identified
 - [ ] **OCR errors checked** — scanned or OCR-processed documents checked for extraction errors
 
-> [!warning] Stale documents are a silent hallucination source
+> [!warning] Stale documents are a silent hallucination source:  
 > A RAG system does not know a document is outdated. It will answer with last year's policy — confidently. Date-stamp every document and set a review cycle before building.
 
 #### G2.3 Completeness
@@ -160,13 +160,13 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 - [ ] **Consistent across documents** — same topic covered consistently in multiple documents
 - [ ] **Contradictions resolved** — contradictory documents reconciled or one version designated as authoritative
 
-> [!note] Hierarchy of Truth
+> [!note] Hierarchy of Truth:  
 > If two documents give different answers to the same question, establish in advance which one is the authoritative source. Without this, the AI will produce contradictory answers depending on which chunk is retrieved.
 
 #### G2.7 Scope and Completeness
 - [ ] **Covers real questions** — corpus covers the questions users will actually ask
 
-> [!note] Practical test
+> [!note] Practical test:  
 > Take 10–20 real questions the AI system will need to answer. Can the answer be found in the documents you have assembled? If more than 3 of 10 cannot be answered from your documents — the corpus is not ready.
 
 - [ ] **No hallucination gaps** — no obvious gaps where AI will have no content to retrieve and may hallucinate
@@ -175,7 +175,7 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 
 #### Gate 2 result: Pass / Fail
 
-> [!warning] Gate 2 key insight
+> [!warning] Gate 2 key insight:  
 > Most organisations discover their document problem in Gate 2 — not in technical setup.
 > Cleaning documents before building is faster than debugging a live system with bad answers.
 
@@ -316,7 +316,7 @@ Based on all four gates:
 | User feedback collection on wrong or unhelpful answers | | |
 | Pause / rollback rule definition | | |
 
-> [!important] The invisible degradation problem
+> [!important] The invisible degradation problem:  
 > A knowledge base that passes this assessment on Day 1 can fail silently six months later.
 > A policy changes, no one updates the document, and the system continues to give confidently wrong answers.
 > The most important governance question is not "Is it ready now?" but "Who keeps it ready after we launch?"
@@ -325,5 +325,5 @@ Based on all four gates:
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
