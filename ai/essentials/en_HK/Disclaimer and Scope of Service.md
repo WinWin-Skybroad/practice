@@ -1,6 +1,6 @@
 ---
 title: Disclaimer & Scope of Service
-version: "1.0"
+version: "1.0.1"
 created: 2026-04-04
 tags:
   - WinWin-Skybroad
@@ -13,11 +13,11 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 # Disclaimer & Scope of Service
 
-**Win.Win@Skybroad**
-[Legal name as shown on HKID/passport], trading as Win.Win@Skybroad
+**Win.Win@Skybroad**  
+[Legal name as shown on HKID/passport], trading as Win.Win@Skybroad  
 winwin.skybroad@gmail.com
 
-**Version:** 1.0 | April 2026
+**Version:** 1.0 | April 2026  
 **Jurisdiction:** Hong Kong SAR
 
 ---
@@ -153,8 +153,8 @@ This disclaimer may be updated periodically to reflect changes in service scope,
 
 ## 10. Contact
 
-**Win.Win@Skybroad**
-[Legal name as shown on HKID/passport], trading as Win.Win@Skybroad
+**Win.Win@Skybroad**  
+[Legal name as shown on HKID/passport], trading as Win.Win@Skybroad  
 winwin.skybroad@gmail.com
 
 ---
@@ -164,4 +164,4 @@ winwin.skybroad@gmail.com
 ---
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

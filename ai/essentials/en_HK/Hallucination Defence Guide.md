@@ -1,7 +1,7 @@
 ---
 title: Hallucination Defence Guide
 created: 2026-04-04
-version: "1.0"
+version: "1.1"
 tags:
   - WinWin-Skybroad
   - hallucination
@@ -15,10 +15,10 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 **How to catch confident mistakes and made-up details**
 
 > [!quote] The core principle:  
-> Treat AI as a draft engine, not a truth engine.
-> AI does not know when it is wrong. It produces incorrect answers with the same confident tone as correct ones.
-> Defending against hallucination is not about trusting AI less — it is about knowing where and how to check.
-> 
+> Treat AI as a draft engine, not a truth engine.  
+> AI does not know when it is wrong. It produces incorrect answers with the same confident tone as correct ones.  
+> Defending against hallucination is not about trusting AI less — it is about knowing where and how to check.  
+>  
 > **Polished is not proof**.
 
 **What this guide is for:** Building habits that catch AI errors before they cause harm.
@@ -31,7 +31,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 AI hallucination is when a model produces output that is **factually incorrect, fabricated, or misleading — but stated with confidence**.
 
-It is not a bug that will be fixed. It is a structural feature of how large language models work: they predict the most plausible next word, not the most factually accurate one.
+It is not a bug that will be fixed. It is a structural feature of how AI systems work: they are built to produce outputs that sound plausible, coherent, and convincing — but not to reliably check whether those outputs are actually correct. A well-written answer and a wrong answer can look exactly the same.
 
 ### Why Does It Happen?
 
@@ -55,6 +55,10 @@ It is not a bug that will be fixed. It is a structural feature of how large lang
 - **Outdated fact** — stated in the present tense
 - **Dropped exception** — a condition omitted that changes meaning
 - **Confident with no basis** — especially on niche or recent topics
+
+> [!important] AI tools are designed to generate a response rather than acknowledge missing context. Unlike a human professional who feels uncertain when asked a question outside their competence, an AI tool has no internal signal that tells it to stop and ask for clarification. It will attempt to answer whether it has sufficient context or not — and the answer will sound equally confident in both cases. This is not dishonesty. It is a structural property of how these systems work. 
+
+> [!important] **The responsibility for providing sufficient context, and for verifying that the response reflects that context, belongs entirely to the human.**
 
 ---
 
@@ -113,7 +117,7 @@ AI summarises a real document but subtly changes meaning — omitting a conditio
 
 ---
 
-## Prompt-Level Defences (Before the Error Happens)
+## 4. Prompt-Level Defences (Before the Error Happens)
 
 The best time to reduce hallucination is before you receive the output.
 
@@ -133,7 +137,7 @@ The best time to reduce hallucination is before you receive the output.
 
 ---
 
-## 4. Quick Verification Habits
+## 5. Quick Verification Habits
 
 ### Nugget Check
 
@@ -152,12 +156,12 @@ Add these to any important prompt:
 
 ---
 
-## 5. 3-Check Verification System
+## 6. 3-Check Verification System
 
 Named for the navigation technique: you need at least three reference points to confirm your position. Apply the same logic to AI output.
 
 ### Check 1 — The Source Check (2–5 minutes)
-Ask AI: *"What is your source for this claim? Name the specific document, author, date, and where I can find it."*
+Ask AI: *"What is your source for this claim? Name the specific document, author, date, and where I can find it."*  
 For anything going into a client document, a decision, or an external communication — verify against the original source, not another AI or a summary.
 
 > [!warning] AI giving you a source does not mean the source exists:  
@@ -214,7 +218,7 @@ Text: [paste your source document]
 
 ---
 
-## 6. The S-A-F-E-R Framework
+## 7. The S-A-F-E-R Framework
 
 If you are using AI for technical or project work, "Think step by step" isn't enough. You need a source-grounded framework.
 
@@ -233,14 +237,15 @@ Return your answer as a table with these columns:
 ```
 
 **Self-Audit Prompt:**
-
-> "List the 5 most important factual claims in your answer. For each, provide: 1) The best source, 2) the date, 3) a Google search query to verify it."
+```
+List the 5 most important factual claims in your answer. For each, provide: 1) The best source, 2) the date, 3) a Google search query to verify it.
+```
 
 **Why this works:** It shifts the burden of proof back to the AI. Hallucinations often collapse when the AI is forced to cite its work.
 
 ---
 
-## 7. What Works — and What Doesn't
+## 8. What Works — and What Doesn't
 
 | Effectiveness | Prompt additions |
 |---|---|
@@ -248,7 +253,7 @@ Return your answer as a table with these columns:
 | **Moderately effective** | "Summarise your assumptions" · "List possible weaknesses" · "Give a confidence level per claim" |
 | **Less reliable** | "Explain your chain-of-thought" · "Think step by step" (alone) · Long reasoning without evidence anchoring |
 
-**Note on Chain-of-Thought:** Asking for chain-of-thought is NOT the best defence against hallucination. Models can produce confabulated logic — the explanation sounds convincing while still being wrong.
+**Note on Chain-of-Thought:** Asking for chain-of-thought is **NOT** the best defence against hallucination. Models can produce confabulated logic — the explanation sounds convincing while still being wrong.
 
 Better alternatives:
 - **Brief reasoning** — ask for a short reasoning summary
@@ -259,7 +264,7 @@ Better alternatives:
 
 ---
 
-## 8. Red Flags — Hallucination Warning Signs
+## 9. Red Flags — Hallucination Warning Signs
 
 | Flag | Warning sign |
 |---|---|
@@ -275,7 +280,7 @@ Better alternatives:
 
 ---
 
-## 9. Prompt Templates for Hallucination Defence
+## 10. Prompt Templates for Hallucination Defence
 
 ### The Calibration Prompt
 Use before any research or fact-finding task:
@@ -326,7 +331,7 @@ Instruction:
 
 ---
 
-## 10. The Human Review Gate
+## 11. The Human Review Gate
 
 Before using any AI output, answer these four questions:
 
@@ -338,12 +343,12 @@ Before using any AI output, answer these four questions:
 | **Can stand behind it?** | If not — check more |
 
 > [!important] The accountability test:  
-> Would I be comfortable standing behind this output if challenged?
+> Would I be comfortable standing behind this output if challenged?  
 > If yes — you have done enough. If no — check more before using it.
 
 ---
 
-## 11. Hallucination Risk by Task Type
+## 12. Hallucination Risk by Task Type
 
 | Task | Risk | Key defence |
 |---|---|---|
@@ -354,38 +359,38 @@ Before using any AI output, answer these four questions:
 | **HK legal / regulatory Q&A** | Very High | Verify on official HK source or with a solicitor |
 | **TC translation** | Medium | Check terminology with a qualified bilingual reviewer |
 | **Scriptural interpretation** | High | Verify in the Bible; consult your pastor |
-| **Grant statistics** | Very High | Never let AI invent figures; use [PLACEHOLDER] |
+| **Grant statistics** | Very High | Never let AI fabricate figures; ask AI to use placeholder text like [INSERT ACTUAL STATISTIC] instead |
 
 ---
 
-## 12. If Hallucination Has Already Happened
+## 13. If Hallucination Has Already Happened
 
-1. **Correct immediately** — notify anyone who received the wrong information
-2. **Preserve the record** — keep the original AI output and your correction
-3. **Assess impact** — who received it, what decisions it may have affected
-4. **Review the gap** — which check did not happen that should have?
-5. **Update your process** — add the specific check that would have caught this
-6. **PDPO obligation?** — if personal data was involved, this may trigger a reporting obligation; raise it immediately
+- **Correct immediately** — notify anyone who received the wrong information
+- **Preserve the record** — keep the original AI output and your correction
+- **Assess impact** — who received it, what decisions it may have affected
+- **Review the gap** — which check did not happen that should have?
+- **Update your process** — add the specific check that would have caught this
+- **PDPO obligation?** — if personal data was involved, this may trigger a reporting obligation; raise it immediately
 
 ---
 
-## 13. Quick Reference Card
+## 14. Quick Reference Card
 
 ```
 BEFORE using AI output:
-  ☐ Did I ground the prompt in source material?     Reduces fabrication
-  ☐ Did I ask for uncertainty flags?                Surfaces weak spots
-  ☐ Did I ask for the source?                       Verify it exists
-  ☐ Did I read the full output?                     Not just the first paragraph
-  ☐ Can I stand behind this?                        Accountability test
+- [ ] Did I ground the prompt in source material? - Reduces fabrication
+- [ ] Did I ask for uncertainty flags? - Surfaces weak spots
+- [ ] Did I ask for the source? - Verify it exists
+- [ ] Did I read the full output? - Not just the first paragraph
+- [ ] Can I stand behind this? - Accountability test
 
 HIGH-RISK — always verify independently:
-  Specific statistics · Named cases or laws · Dates and thresholds
-  Citations and references · Recent events · HK regulatory conclusions
+- Specific statistics · Named cases or laws · Dates and thresholds
+- Citations and references · Recent events · HK regulatory conclusions
 
 HK PRIMARY SOURCES — bookmark these:
-  pcpd.org.hk · elegislation.gov.hk · gov.hk
-  cr.gov.hk · sfc.hk · hkma.gov.hk
+- pcpd.org.hk · elegislation.gov.hk · gov.hk
+- cr.gov.hk · sfc.hk · hkma.gov.hk
 ```
 
 ---
@@ -393,4 +398,4 @@ HK PRIMARY SOURCES — bookmark these:
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

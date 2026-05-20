@@ -1,7 +1,7 @@
 ---
 title: Church Scope Agreement
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
   - scope-agreement
@@ -14,8 +14,8 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 # Church Scope Agreement
 > [!note]  Complete provider name before printing or sharing.
 
-**Win.Win@Skybroad**
-[Legal name as shown on HKID/passport], trading as Win.Win@Skybroad
+**Win.Win@Skybroad**  
+[Legal name as shown on HKID/passport], trading as Win.Win@Skybroad  
 winwin.skybroad@gmail.com
 
 ---
@@ -23,14 +23,13 @@ winwin.skybroad@gmail.com
 
 > [!note] Complete one copy per engagement. Both parties sign. Keep your copy on file.
 
-
 > [!important] Before any engagement begins:  
-> This agreement must be completed and signed by both parties before any working session starts.
+> This agreement must be completed and signed by both parties before any working session starts.  
 > No engagement begins without a signed scope agreement. This protects both parties.
 
 > [!quote] What this document is:  
-> A plain-language written record of the agreed scope, boundaries, and expectations for this engagement.
-> It should be read together with the [[Disclaimer and Scope of Service]].
+> A plain-language written record of the agreed scope, boundaries, and expectations for this engagement.  
+> It should be read together with the [[Disclaimer and Scope of Service]].  
 > It is not a legal contract. For formal commercial engagements, a solicitor-reviewed terms document is recommended.
 
 ---
@@ -216,7 +215,7 @@ By signing below, both parties confirm they have read, understood, and agreed to
 
 ---
 
-**Win.Win@Skybroad (Provider)**
+**Win.Win@Skybroad (Provider)**  
 
 Legal name: ___________________________  
 Trading as: Win.Win@Skybroad  
@@ -247,7 +246,7 @@ Date: ___________________________
 ---
 
 > [!note] Reminder before every meeting:  
-> Review Part 2 (what this engagement is) and Part 2.4 (what will not be done) before starting.
+> Review Part 2 (what this engagement is) and Part 2.4 (what will not be done) before starting.  
 > If the conversation is moving outside these boundaries — name it clearly and decide whether to amend the scope in writing or stop.
 
 ---
@@ -255,4 +254,4 @@ Date: ___________________________
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

@@ -1,331 +1,166 @@
 ---
-title: Win.Win AI Essentials
+title: Win.Win AI Essentials — Master README
 created: 2026-04-04
-version: "1.0"
+updated: 2026-05-01
+version: "1.1"
 tags:
   - WinWin-Skybroad
   - essentials
   - bundle
-  - index
-  - resource
+  - master-index
+  - multilingual
 status: active
-type: bundle-index
-licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad
+type: master-readme
+licence: CC BY 4.0 — Free to share and adapt with attribution to Win.Win@Skybroad
 ---
 # Win.Win AI Essentials
 
-**By Win.Win@Skybroad**
-winwin.skybroad@gmail.com
-Version 1.0 | April 2026
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to share and adapt with attribution
+**Author:** Win.Win@Skybroad  
+**Contact:** winwin.skybroad@gmail.com  
+**Release:** 1.1 | May 2026  
+**Licence:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — Free to share and adapt with attribution
 
 ---
 
-## What This Is
-
-**Win.Win AI Essentials** is a self-serve collection of practical tools to help individuals, small businesses, churches, and community organisations in Hong Kong **use AI more safely** and **avoid failed AI projects**.
-
-It is designed for:
-- Hong Kong SMEs exploring AI for the first time
-- Churches and nonprofits evaluating AI for administration and communications
-- Team leaders and managers who want to make better decisions about AI adoption
-- Anyone who wants a structured starting point for safer AI use
-
-**Using these materials does not guarantee safe, compliant, or successful AI outcomes. All decisions remain with the reader.**
-
-These materials are offered as general information and insight sharing for independent use. They do not constitute advisory services, legal advice, compliance certification, or technical implementation guidance.
-
-> [!note] About the file format:  
-> These files are designed to work best in a free note-taking app called [Obsidian](https://obsidian.md/). However, you do not need Obsidian to use them. You can open any file in a plain text editor, copy the content into Microsoft Word, or simply read it on screen. The formatting may look slightly different outside Obsidian, but all the content will be there.
+> This is the master README for the Win.Win AI Essentials kit.  
+> It introduces the kit and guides you to the right language folder.  
+> The full asset index is inside each language folder's own README.
 
 ---
 
-## How To Use This Kit
+## [EN] English
 
-This kit does not tell you to avoid AI.
-It helps you decide where AI is useful, where it needs checking, and where it must not act by itself.
-Use AI for speed and drafting. Keep people responsible for judgment, approval, and care.
+### What This Kit Is
 
----
+The Win.Win AI Essentials kit is a self-service collection of practical tools to help individuals, churches, nonprofits, and SMEs use AI more safely — and avoid common AI failures.
 
-## Who This Kit Is For
+It is built for organisations that are new to AI governance and want a structured, plain-English starting point.
 
-### Primary Audience
-This kit is written primarily for **churches, SMEs, nonprofits, and community organisations in Hong Kong**.
+### Folder Structure
 
-### Secondary / Adaptable Audience
-Some materials may also be adapted for **schools** and **some other faith-based organisations**, provided they are reviewed and adjusted for the organisation’s context, governance needs, and — where relevant — theological or institutional oversight.
+This kit is organised by language and locale. Folder names follow the convention `[language]_[market]` so the scope of each folder is always unambiguous.
 
-### Important Scope Caution
-This kit is **not written as a government or regulated public-sector package**. Government and other regulated contexts usually require stronger legal, records, procurement, security, and policy review before adoption.
+Each folder contains a **complete, self-contained set of materials** — checklists, frameworks, policies, and guides — written and contextualised for that audience. Content is intentionally duplicated across folders rather than cross-referenced. This means each folder works on its own, with no dependency on any other folder.
 
+| Folder | Language | Designed For |
+|--------|----------|--------------|
+| `en_HK/` | English | Hong Kong — individuals and organisations working primarily in English |
+| `tc_HK/` | Traditional Chinese / 繁體中文 | Hong Kong — Traditional Chinese readers |
+| `sc_HK/` | Simplified Chinese / 简体中文 | Hong Kong — Simplified Chinese readers, primarily Mandarin-speaking with Mainland Chinese background |
 
+> **How to choose:** Use the folder that matches the language your team reads most comfortably. All folders cover the same core frameworks and Hong Kong-specific references (e.g. PDPO, Traditional Chinese document handling). Open that folder's README for the full asset index and getting-started guide.
 
-### How To Choose The Right Template
-- **Church** materials are written for **Christian churches and ministries**. Some parts may be adaptable for certain faith-based organisations with appropriate theological review.
-- **General Organisation** materials are starting points for **SMEs, nonprofits, schools, and similar organisations** that do not yet have a more specific template.
-- If your organisation operates in a **heavily regulated sector**, treat these materials as **educational starters only** and obtain qualified review before adoption.
+### Where to Go Next
 
----
+→ Go to the **`en_HK/`** folder and open its README for the full asset index and getting-started guide.
 
-> [!important] Scope Note:  
-> These materials are offered as **general information and insight sharing only** for independent use. They are not:
-> - advisory services
-> - legal advice
-> - compliance certification or audit
-> - technical implementation guidance
-> - financial or investment advice
-> - pastoral or theological counsel
-> - a guarantee that any AI system or approach is safe, accurate, or fit for your purpose
-> 
-> For legal, regulatory, cybersecurity, pastoral, or technical matters, please consult the appropriate qualified professional in Hong Kong.
-> **Using these materials does not guarantee safe, compliant, or successful AI outcomes. All decisions remain with the reader.**
+### Licence
 
----
+All materials are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+You may share, adapt, and build on these materials for any purpose, including commercial, provided you credit **Win.Win@Skybroad** and note any changes made.
 
-> [!note] What AI actually is:  
-> AI generates text by predicting what word is most likely to come next —
-> based on patterns in millions of documents. It does not reason, verify,
-> or understand. It can produce a confident, well-written answer that is
-> completely wrong.
->
-> **Use it to draft. Never let it decide.**
-> **Polished is not proof.**
-
-AI is a powerful drafting tool — like a power saw, it can do in seconds what used to take much longer. But you would not use a power saw without a safety guard or without watching what you are cutting.
-
-Safe AI use is not about leaving the tool in the box. It is about being the operator who knows exactly what the tool can and cannot do — and who always reads the output before it reaches anyone.
-
-**The safety guard is you.**
-
-**Automation bias** means over-trusting AI because it sounds confident, fast, or well-written. AI can produce something that looks sensible but does not fit your congregation, your client, or your specific situation. Human review is not a backup step — it is part of the job.
-
----
-
-## The Two Core Frameworks
-
-Everything in this kit builds on two simple frameworks.
-
-### 3P — Safer AI Use
-
-Ask before every AI task:
-
-| Check | Question |
-|---|---|
-| **P1 — Purpose** | Why are we using AI for this task? Is the purpose clear and appropriate? |
-| **P2 — Permission** | What is allowed with our data and tools? Is this tool approved for this data? |
-| **P3 — Proof** | Can we verify the output and show what happened? Is there a human reviewer? |
-
-### 3R — AI Project Success
-
-Ask before committing to any AI project:
-
-| Check | Question |
-|---|---|
-| **R1 — Right problem** | Is AI genuinely the right solution for this problem? |
-| **R2 — Ready** | Are we ready across all four dimensions: data quality and permissions, organisational readiness for change, process design, and governance? |
-| **R3 — Realistic expectations** | Are cost, time, effort, and expected outcomes honestly assessed? |
-
-> [!quote] Teaching summary:  
-> Before you use AI day-to-day — ask 3P.
-> Before you commit to an AI project — ask 3R.
-> If you cannot answer all six clearly, pause and think it through first.
-
----
-
-## Four HK-Specific Reminders
-
-These apply to every organisation in Hong Kong and are woven throughout these materials.
-
-> [!warning] 1 — PDPO Before You Prompt:  
-> Personal data collected for one purpose cannot be used for AI processing without assessment — this is required by Hong Kong's Personal Data (Privacy) Ordinance (PDPO, Cap. 486), specifically Data Protection Principle 3 (DPP3: data must only be used for the purpose it was collected for). When in doubt — leave personal data out. Check www.pcpd.org.hk for guidance.
- 
-> [!warning] 2 — Test Traditional Chinese Documents First:  
-> Scanned Traditional Chinese documents are often not machine-readable by AI tools. Always paste a test section before processing any TC document at scale.
-
-> [!warning] 3 — Human Review Before It Reaches Anyone:  
-> No AI output goes to a client, congregation member, staff member, or the public without a human reading it first. This is the minimum responsible standard.
-
-> [!warning] 4 — AI Cannot Replace Pastoral Care:  
-> Pastoral counselling, spiritual direction, and theological authority require a human — always. These are permanently out of scope for AI use in any ministry context.
-
----
-
-## Full Asset Index
-
-### Individual and Employee Safety
-
-| Asset                              | Format   | What it covers                                                                              |
-|---|---|---|
-| [[3P Framework Poster]]            | Obsidian | Three questions to ask before every AI task                                                 |
-| [[AI Safety Checklist - Personal]] | Obsidian | Personal AI use — before, during, and after every task                                      |
-| [[AI Safety Checklist - Work]]     | Obsidian | Workplace AI use — adds agentic AI, shadow AI, and incident response                        |
-| [[Hallucination Defence Guide]]    | Obsidian | How to catch confident mistakes and made-up details: Hallucination patterns, 3-Check Verification System, HK-specific guidance, prompt templates |
-
-### HK-Specific Guidance and Prompt Tools
-
-| Asset | Format | What it covers |
-|---|---|---|
-| [[HK Safe AI Use Pack and Prompt Pattern Library]] | Obsidian | HK-specific rules + copy-paste prompt templates organised by task type |
-
-### Organisation and Project Readiness
-
-| Asset                                  | Format   | What it covers                                            |
-|---|---|---|
-| [[AI Use Case Triage Scorecard]]       | Obsidian | 0–17 scoring tool — should we start this AI use case?     |
-| [[RAG Knowledge Readiness Assessment]] | Obsidian | Before building AI that answers from your documents: Readiness check before building an AI document Q&A system |
-
-### Policy and Governance Templates
-
-| Asset                        | Format   | What it covers                                                 |
-|---|---|---|
-| [[AI Usage Policy - Church]] | Obsidian | Starting-point AI policy for a church or ministry organisation |
-| [[AI Usage Policy - Org]]    | Obsidian | Starting-point AI policy for a general organisation            |
-
-### Agentic AI Governance (Advanced)
-
-> *For AI tools that can act on their own, such as sending emails or updating records automatically. Most churches and small organisations will not need these immediately.*
-
-| Asset | Format | What it covers |
-|---|---|---|
-| [[Agent Approval Checklist]] | Obsidian | Before AI can act on its own: Tiered approval checklist (Critical Gates / Risk Controls / Good Practices) before enabling any AI agent |
-| [[Minimum Security Baseline for Agentic AI]] | Obsidian | Minimum controls for self-acting AI tools: Security controls every agentic AI deployment must meet |
-
-### Engagement and Scope
-
-| Asset                               | Format   | What it covers                                                                 |
-|---|---|---|
-| [[Disclaimer and Scope of Service]] | Obsidian | Win.Win@Skybroad disclaimer and scope                                          |
-| [[Church Scope Agreement]]        | Obsidian | Plain-language scope record for an engagement — fillable template for churches |
-
-### Quick Reference
-
-| Asset                               | Format   | What it covers                                                                 |
-|---|---|---|
-| [[Red Lines Quick Reference]] | Obsidian | Hard stops for AI use |
-| [[HK Safe AI Use Quick Reference]] | Obsidian | HK-specific reminders — PDPO, TC documents, Shadow AI |
-
----
-
-## Choose Your Path
-
-### Path A — Personal
-1. Follow  **Sub-Path 1 — Individual** below
-### Path B — Church or ministry organisation
-1. Read [[AI Usage Policy - Church]]
-2. Follow  **Sub-Path 1 — Individual** below
-3. Follow **Sub-Path 2 — Organisation** below
-4. Use [[Church Scope Agreement]] to start a conversation with Win.Win@Skybroad
-### Path C — General organisation
-1. Read [[AI Usage Policy - Org]] 
-2. Follow  **Sub-Path 1 — Individual** below
-3. Follow **Sub-Path 2 — Organisation** below
-
----
-
-### Sub-Path 1 — Individual
-1. Read  [[3P Framework Poster]] to understand the three questions
-2. Read [[AI Safety Checklist - Personal]] 
-3. Keep [[Hallucination Defence Guide]] on hand before acting on AI output
-4. Use [[HK Safe AI Use Pack and Prompt Pattern Library]] for the PDPO check and prompt templates
-
-### Sub-Path 2 — Organisation
-1. Read [[AI Safety Checklist - Work]]
-2. Use [[AI Use Case Triage Scorecard]] before committing to any AI project
-3. For agentic AI: [[Agent Approval Checklist]] + [[Minimum Security Baseline for Agentic AI]]
-4. For RAG (AI that answers questions from your own documents): [[RAG Knowledge Readiness Assessment]]
-
----
-
-## What This Kit Does Not Cover
-
-- Legal advice — consult a Hong Kong solicitor
-- Formal compliance certification — consult a qualified compliance professional
-- Technical AI implementation — engage a developer or technical consultant
-- Cybersecurity assurance — engage a cybersecurity professional
-- Medical or clinical AI decisions — follow sector-specific regulated standards
-- Financial or investment AI systems — SFC/HKMA regulated; additional requirements apply
-
-**If you want to start a conversation about a specific use case:**
-Use the [[Church Scope Agreement]] (churches) or contact Win.Win@Skybroad directly (all other organisations and individuals) to set clear expectations before any session begins.
-
----
-
-## Using and Adapting These Materials
-
-All materials are licensed under **Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) )**.
-
-You may:
-- share and redistribute in any format
-- adapt, translate, and build on these materials
-- use for any purpose, including commercially
-
-You must:
-- credit **Win.Win@Skybroad** as the source
-- note any changes you made if you adapted the material
-
-**Suggested attribution:**
+Suggested attribution:  
 > *Adapted from Win.Win AI Essentials by Win.Win@Skybroad, licensed under CC BY 4.0. winwin.skybroad@gmail.com*
 
-When adapting policies or governance materials, note that your adapted version is based on Win.Win@Skybroad materials. 
-Adapted materials should be reviewed in the context of your specific organisation and, where they have legal or HR implications, reviewed by a qualified professional before adoption.
+---
+
+## [TC] 繁體中文（Traditional Chinese）
+
+### 本工具包是什麼
+
+Win.Win 人工智能必備工具包是一套自助實用資源，協助個人、教會、非牟利機構及中小企業更安全地使用人工智能，並避免常見的人工智能失誤。
+
+本工具包專為初次接觸人工智能管治的機構而設，提供結構清晰、語言易懂的起步框架。
+
+### 資料夾結構
+
+本工具包按語言及地區整理。資料夾名稱採用 `[語言]_[市場]` 的命名規則，方便清晰識別每個資料夾的適用範圍。
+
+每個資料夾均包含一套**完整且獨立的資料**——核對表、框架、政策及指南——並根據對應讀者群的語境撰寫。各資料夾的內容刻意以複製方式提供，而非採用交叉引用，確保每個資料夾可獨立使用，無需依賴其他資料夾。
+
+| 資料夾 | 語言 | 適用對象 |
+|--------|------|----------|
+| `en_HK/` | 英文 | 香港——主要以英文工作的個人及機構 |
+| `tc_HK/` | 繁體中文 | 香港——習慣閱讀繁體中文的讀者 |
+| `sc_HK/` | 簡體中文 | 香港——習慣閱讀簡體中文的讀者，主要為普通話使用者及具大陸背景人士 |
+
+> **如何選擇：** 請使用您的團隊最習慣閱讀的語言資料夾。所有資料夾涵蓋相同的核心框架及香港特定參考資料（例如《個人資料（私隱）條例》、繁體中文文件處理）。開啟該資料夾的 README，即可查看完整資產索引及入門指南。
+
+### 下一步
+
+→ 前往 **`tc_HK/`** 資料夾，開啟其 README，查看完整內容索引及入門指南。
+
+### 授權條款
+
+所有資料均根據 **創用 CC 姓名標示 4.0 國際授權條款（CC BY 4.0）** 發佈。  
+您可以以任何目的（包括商業用途）分享、改編及在這些資料基礎上創作，惟須註明 **Win.Win@Skybroad** 為原作者，並說明所作的更改。
+
+建議署名：  
+> *改編自 Win.Win 人工智能必備 by Win.Win@Skybroad，根據創用 CC 姓名標示 4.0 國際授權條款。winwin.skybroad@gmail.com*
 
 ---
 
-## A Note on Service
+## [SC] 简体中文（Simplified Chinese）
 
-These materials are offered in a spirit of service — to help people and organisations 
-use AI more safely and avoid preventable harm. They were produced with the assistance 
-of AI tools and reviewed by Win.Win@Skybroad.
+### 本工具包是什么
 
-They are a starting point, not a complete solution. If they help you ask better 
-questions, set better boundaries, or avoid a mistake that could have been costly — 
-that is enough.
+Win.Win 人工智能必备工具包是一套自助实用资源，帮助个人、教会、非营利机构及中小企业更安全地使用人工智能，并避免常见的人工智能失误。
 
-For feedback, questions, or to report an issue — see Contact and Feedback below.
+本工具包专为初次接触人工智能管治的机构而设，提供结构清晰、语言易懂的起步框架。
 
-> "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms." — 1 Peter 4:10 NIV
+### 文件夹结构
+
+本工具包按语言及地区整理。文件夹名称采用 `[语言]_[市场]` 的命名规则，方便清晰识别每个文件夹的适用范围。
+
+每个文件夹均包含一套**完整且独立的资料**——核查表、框架、政策及指南——并根据对应读者群的语境撰写。各文件夹的内容刻意以复制方式提供，而非采用交叉引用，确保每个文件夹可独立使用，无需依赖其他文件夹。
+
+| 文件夹 | 语言 | 适用对象 |
+|--------|------|----------|
+| `en_HK/` | 英文 | 香港——主要以英文工作的个人及机构 |
+| `tc_HK/` | 繁体中文 | 香港——习惯阅读繁体中文的读者 |
+| `sc_HK/` | 简体中文 | 香港——习惯阅读简体中文的读者，主要为普通话使用者及具大陆背景人士 |
+
+> **如何选择：** 请使用您的团队最习惯阅读的语言文件夹。所有文件夹涵盖相同的核心框架及香港特定参考资料（例如《个人资料（私隐）条例》、繁体中文文件处理）。打开该文件夹的 README，即可查看完整资产索引及入门指南。
+
+### 下一步
+
+→ 前往 **`sc_HK/`** 文件夹，打开其 README，查看完整內容索引及入门指南。
+
+### 许可协议
+
+所有资料均根据 **知识共享署名 4.0 国际许可协议（CC BY 4.0）** 发布。  
+您可以以任何目的（包括商业用途）分享、改编及在这些资料基础上创作，惟须注明 **Win.Win@Skybroad** 为原作者，并说明所作的更改。
+
+建议署名：  
+> *改编自 Win.Win 人工智能必备 by Win.Win@Skybroad，根据知识共享署名 4.0 国际许可协议。winwin.skybroad@gmail.com*
+
+---
+
+## Feedback and Contact
+
+Feedback on **clarity, usefulness, and accuracy** is welcome across all language versions.
+
+**Primary feedback channel:**  
+[Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)
+
+**To report errors or suggest document changes publicly:**  
+[GitHub Issues](https://github.com/WinWin-Skybroad/practice/issues)
+
+**For private enquiries or organisation-specific conversations:**  
+winwin.skybroad@gmail.com
 
 ---
 
 ## Release History
 
-> A **release** is the published snapshot of the whole Win.Win AI Essentials kit, while a document **version** is the revision number of an individual document.
-> 
-> *These materials will be updated as feedback is received and as AI governance practice develops in Hong Kong. Check the release history for changes.*
-
-| Release | Date | Notes |
-|---|---|---|
-| 1.0 | April 2026 | Initial release — all core materials |
+| Release | Date       | Notes                                                                                                                                                                                                                                                                                                                                          |
+| ------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.0     | April 2026 | Initial release — single English README with full asset index                                                                                                                                                                                                                                                                                  |
+| 1.1     | May 2026   | Restructured to multilingual folder model (`en_HK/`, `tc_HK/`, `sc_HK/`). Folder naming convention `[language]_[market]` adopted for future market expansion. Master README now serves as introduction and navigation only. Content duplicated across folders — no cross-referencing. Full asset index moved to each language folder's README. |
 
 ---
 
-## Plain-English Glossary
-
-*A short reference for terms that appear in this kit.*
-
-| Term | Plain-English meaning |
-|---|---|
-| **PDPO** | Hong Kong's Personal Data (Privacy) Ordinance (Cap. 486) — the law that governs how personal data may be collected, stored, and used. |
-| **DPP3** | Data Protection Principle 3 — the specific rule that says personal data collected for one purpose must not be used for a different purpose without the person's knowledge or consent. |
-| **RAG** | A way to build AI that answers questions from your own documents rather than from its general training. Short for Retrieval-Augmented Generation. Requires technical setup. |
-| **Shadow AI** | Using personal AI tools (such as a personal ChatGPT or Gemini account) for church or work tasks without the organisation's knowledge or approval — creating data risks that cannot be controlled. |
-| **AI Agent / Agentic AI** | An AI tool that can take actions on its own — such as sending emails, updating records, or booking appointments — without requiring a human to approve each step. Different from standard AI, which only generates text for a human to review. |
-
----
-
-## Contact and Feedback
-
-Feedback on the **clarity, practicality, and usefulness** of these materials is welcome.
-Please use the feedback form as the main feedback channel:
-[Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)
-
-If you want to report a specific error or suggest a document change publicly, you may also use:
-[GitHub Issues](https://github.com/WinWin-Skybroad/practice/issues)
-
-For private questions or to start a conversation about your organisation's specific situation, email winwin.skybroad@gmail.com
-
-**Win.Win@Skybroad**
+Win.Win@Skybroad  
 https://github.com/WinWin-Skybroad/practice/tree/main/ai/essentials
 
 *Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

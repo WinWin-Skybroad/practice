@@ -51,14 +51,14 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - **Permission** - Is this data and tool allowed?
 - **Proof** - Can I verify the output before anyone relies on it?
 
-If you cannot answer all three clearly, stop and ask first.
+If you cannot answer all three clearly, stop and ask first.  
 This is the 3P Framework — see the [[3P Framework Poster]] for the full guide.
 
 ---
 
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
-*Win.Win@Skybroad | winwin.skybroad@gmail.com*
+*Win.Win@Skybroad | winwin.skybroad@gmail.com*  
 *Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
 
 [^1]: [[AI Usage Policy - Org]]

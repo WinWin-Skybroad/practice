@@ -1,7 +1,7 @@
 ---
 title: AI Safety Checklist - Personal
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
   - AI-safety
@@ -15,19 +15,19 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 # AI Safety Checklist — Personal
 
 > [!info] Use case record:  
-> 
+>  
 > **Task:** (e.g. church newsletter drafting, meeting note summarisation)  
 > **Date:**  
 > **AI tool used:**  
 > **Filled in by:**  
 
-> [!quote] Why this matters
-> AI tools are powerful — and easy to misuse by accident.
->
-> This checklist helps you protect yourself, your data, and the people you serve.
+> [!quote] Why this matters  
+> AI tools are powerful — and easy to misuse by accident.  
+>  
+> This checklist helps you protect yourself, your data, and the people you serve.  
 > Use it every time you try a new AI tool or task.
 
-> Treat AI output as a draft engine, not a truth engine.
+> Treat AI output as a draft engine, not a truth engine.  
 > Every output needs a human reader before it reaches anyone or anything that matters.
 
 **Who this is for:** Anyone using AI tools personally — for work, study, ministry support, volunteering, or side projects.
@@ -49,7 +49,6 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Accelerate, not escape** — using AI to speed up drafting, not to remove my responsibility
 - [ ] **No decisions about people** — not affecting health, finances, safety, or legal status
 
-
 > [!warning] Stop if you are about to let AI make a decision about another person:  
 > Medical, financial, legal, pastoral, and welfare decisions need a human being — not a language model.
 
@@ -63,7 +62,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Privacy policy checked** — does the tool allow this type of data?
 - [ ] **No personal data** — not pasting names, IDs, addresses, phone, health, or financial details
 - [ ] **No confidential elements** — not pasting pastoral, client records or sensitive information
-- [ ] **No credentials** — not pasting passwords, API keys, or login details
+- [ ] **No credentials** — not pasting passwords, API (Application Programming Interface) keys, or login details
 - [ ] **Minimum data** — reduced to only what is necessary for this task
 - [ ] **Anonymised where possible** — names and identifiers removed
 - [ ] **Training opt-out** — checked privacy settings; know what data is stored or used for training
@@ -81,12 +80,12 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Keep a record** — prompt and output noted for important tasks
 - [ ] **Can explain it?** — able to say in plain language why this output is good enough
 - [ ] **Can we correct it?** — if something goes wrong, can we explain and fix it quickly?
-- [ ] **Expect errors** — AI can hallucinate confidently; I know this. 
+- [ ] **Expect errors** — AI can hallucinate confidently; I know this.
 
 > [!note] Polished is not proof.
 
 > [!important] The accountability test:  
-> Would I be comfortable putting my name on this output and explaining what AI helped produce?
+> Would I be comfortable putting my name on this output and explaining what AI helped produce?  
 > If yes — you have done enough. If no — check more.
 
 ---
@@ -103,7 +102,7 @@ Watch for these and verify before trusting any of them:
 - [ ] **100% confident tone** — no uncertainty or caveats: a warning sign
 - [ ] **Polished, no evidence** — authoritative-sounding but nothing specific to back it up
 
-> [!warning] Red Flags — Stop and Reconsider:   
+> [!warning] Red Flags — Stop and Reconsider:  
 > Stop and slow down if:
 > - **Affects someone's rights** — eligibility, reputation, finances, or wellbeing
 > - **Professional judgment needed** — legal, medical, financial, HR, pastoral, or compliance
@@ -118,9 +117,9 @@ Watch for these and verify before trusting any of them:
 
 When you spot a warning sign above — or before sharing anything important — take three minutes:
 
-1. **Doubt question (30s)** — Ask AI: "What might you be wrong about?"
-2. **Search one claim (60s)** — the most specific claim in a search engine or official source
-3. **Ask a human (60s)** — if it affects someone else, verify before acting
+- **Doubt question (30s)** — Ask AI: "What might you be wrong about?"
+- **Search one claim (60s)** — the most specific claim in a search engine or official source
+- **Ask a human (60s)** — if it affects someone else, verify before acting
 
 ---
 
@@ -146,7 +145,6 @@ When you spot a warning sign above — or before sharing anything important — 
 - [ ] **Disclosure considered** — if AI materially helped, considered whether to note that
 
 ---
-
 
 ## 5. Quick Reference
 
@@ -202,4 +200,4 @@ If all three are yes — you have done the minimum responsible thing.
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

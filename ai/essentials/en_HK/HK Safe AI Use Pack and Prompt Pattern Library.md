@@ -1,7 +1,7 @@
 ---
 title: HK Safe AI Use Pack and Prompt Pattern Library
 created: 2026-04-04
-version: "1.0"
+version: "1.1"
 tags:
   - WinWin-Skybroad
   - HK-safe-AI-use
@@ -57,12 +57,12 @@ These apply to every AI use, every time, in every HK context:
 > [!warning] Rule 2 — Check Traditional Chinese Readability:  
 > Before using AI on any Traditional Chinese document:
 > - Is it a digital text file (Word, typed PDF)? → Likely readable
-> - Is it a scanned image or photo of a document? → Readability is uncertain — AI may misread, omit, or “correct” characters without warning (especially handwritten Traditional Chinese).   
+> - Is it a scanned image or photo of a document? → Readability is uncertain — AI may misread, omit, or “correct” characters without warning (especially handwritten Traditional Chinese).
 > **Mandatory:** Perform a spot check by comparing at least one full paragraph of the AI output against the original image.
 
 > [!warning] Rule 3 — Human Review Before It Reaches Anyone:  
-> No AI output goes to a client, congregation member, staff member, or the public without a human reading it first.
-> This is not optional. It is the minimum responsible standard.
+> - No AI output goes to a client, congregation member, staff member, or the public without a human reading it first.
+> - This is not optional. It is the minimum responsible standard.
 
 ---
 
@@ -129,27 +129,27 @@ Before every AI task:
 
 Before choosing a pattern, find your task below and go directly to the right section.
 
-| I want to... | Go to |
-|---|---|
-| **Draft a newsletter, announcement, or email** | 2.2 — Email / Announcement Draft |
-| **Write a WhatsApp or Telegram broadcast** | 2.2 — WhatsApp / Telegram Broadcast |
-| **Produce a bilingual English and TC version** | 2.2 — Bilingual Draft |
-| **Summarise a document** | 2.3 — Document Summary |
-| **Turn raw meeting notes into a structured summary** | 2.3 — Meeting Notes Summary |
-| **Answer a question from a specific document** | 2.4 — Source-Grounded Q&A |
-| **Think through whether a task involves personal data** | 2.7 — PDPO Pre-Check |
-| **Check whether AI output is reliable** | 2.4 — Hallucination Check |
-| **Draft a section of a grant or funding report** | 2.2 — Grant or Funding Report Section |
-| **Write a volunteer or staff role description** | 2.2 — Volunteer or Staff Role Description |
-| **Research something in a Hong Kong context** | 2.4 — Calibrated Research (HK) |
-| **Draft an organisational policy** | 2.5 — Policy Draft |
-| **Answer a policy question from an existing policy** | 2.5 — Answer a Policy Question |
-| **Check my confidence before a research task** | 2.6 — Pre-Task Calibration |
-| **Handle scripture or theology content safely** | 2.6 — Scripture / Theology Safety |
-| **Verify a Hong Kong law or regulation question** | 2.7 — HK Regulatory Verification |
+| I want to...                                            | Go to                                     |
+| ------------------------------------------------------- | ----------------------------------------- |
+| **Draft a newsletter, announcement, or email**          | 2.2 — Email / Announcement Draft          |
+| **Write a WhatsApp or Telegram broadcast**              | 2.2 — WhatsApp / Telegram Broadcast       |
+| **Produce a bilingual English and TC version**          | 2.2 — Bilingual Draft                     |
+| **Summarise a document**                                | 2.3 — Document Summary                    |
+| **Turn raw meeting notes into a structured summary**    | 2.3 — Meeting Notes Summary               |
+| **Answer a question from a specific document**          | 2.4 — Source-Grounded Q&A                 |
+| **Think through whether a task involves personal data** | 2.7 — PDPO Pre-Check                      |
+| **Check whether AI output is reliable**                 | 2.4 — Hallucination Check                 |
+| **Draft a section of a grant or funding report**        | 2.2 — Grant or Funding Report Section     |
+| **Write a volunteer or staff role description**         | 2.2 — Volunteer or Staff Role Description |
+| **Research something in a Hong Kong context**           | 2.4 — Calibrated Research (HK)            |
+| **Draft an organisational policy**                      | 2.5 — Policy Draft                        |
+| **Answer a policy question from an existing policy**    | 2.5 — Answer a Policy Question            |
+| **Check my confidence before a research task**          | 2.6 — Pre-Task Calibration                |
+| **Handle scripture or theology content safely**         | 2.6 — Scripture / Theology Safety         |
+| **Verify a Hong Kong law or regulation question**       | 2.7 — HK Regulatory Verification          |
 
 > [!note] Not sure which task applies?  
-> Use the **3P check** first — Purpose, Permission, Proof.
+> Use the **3P check** first — Purpose, Permission, Proof.  
 > If you cannot answer all three clearly, the task may not be ready for AI yet.
 
 ---
@@ -167,9 +167,9 @@ The full patterns below are longer because higher-stakes tasks need more structu
 ---
 
 > [!note] How to use these patterns:  
-> Each pattern is a reusable template. Replace the parts in [square brackets] with your specific details.
-> Copy the whole block — including the instructions — for best results.
-> Apply the 3P check (Purpose / Permission / Proof) before every task.
+> Each pattern is a reusable template. Replace the parts in [square brackets] with your specific details.  
+> Copy the whole block — including the instructions — for best results.  
+> Apply the 3P check (Purpose / Permission / Proof) before every task.  
 
 #### How to Read Each Pattern
 
@@ -179,6 +179,64 @@ The full patterns below are longer because higher-stakes tasks need more structu
 | **Risk level** | Green / Amber based on the standard risk classification |
 | **Pattern** | The reusable prompt structure with [PLACEHOLDERS]. Built-in safeguard embedded in the prompt |
 
+#### What Structure These Patterns Follow (Why They Work)
+
+Although each pattern looks slightly different, they follow a consistent structure.  
+Each part has a specific role — especially the difference between **Instruction** and **Rule**.
+
+| Tag (as used in patterns) | What it does | Why it matters |
+|---|---|---|
+| **Background** | Sets the role, organisation type, and context (e.g. Hong Kong, church, SME) | Helps the AI stay in the correct context and avoid applying the wrong assumptions (e.g. US/UK instead of HK) |
+| **Task** | States clearly what you want the AI to do | Prevents vague or unfocused answers |
+| **Audience / Tone / Language** (when present) | Defines who the output is for and how it should sound | Ensures the output is appropriate for real-world use (e.g. members, staff, clients) |
+| **Instruction** | Explains *how to approach the task* (e.g. structure, order, what to include, how to think through the task) | Improves clarity, completeness, and usefulness of the output |
+| **Rule** | Sets hard constraints (e.g. “do not invent”, “use only provided content”, “say ‘I don’t know’ if unsure”) | This is the main safety control — it reduces hallucination, overreach, and misuse |
+| **Output Format** | Defines how the answer should be structured (bullets, table, short message, etc.) | Makes the result easier to review and reduces hidden errors |
+| **Reminder / Review Note** (when present) | Tells you what must be checked by a human before use | Keeps final responsibility with the human, not the AI |
+| **Content** | Provides the information the AI is allowed to use (placed at the end to avoid mixing with the pattern structure) | Reduces guessing — the AI works from your data instead of memory, and keeps the prompt structure clear and readable |
+
+---
+
+**Key distinction:**
+
+- **Instruction = how to do the task well**  
+- **Rule = what must NOT be violated**
+
+Both are important — Instruction improves quality, while Rule protects against error and misuse.
+
+**Tag convention:**
+
+- Use **Instruction** for how the AI should complete the task.
+- Use **Rule** for hard limits the AI must not cross.
+- Use **Reminder** or **Review Note** for what the human must check after the AI output.
+
+**Why Content is placed last:**
+
+Content may be long and can visually overwhelm the structure of the pattern.  
+Keeping it at the end ensures the Task, Instruction, Rule, and Output Format remain clear and are not missed.
+
+---
+
+**In simple terms, every pattern is doing this:**
+
+> Set the context → define the task → guide the approach → restrict the AI → control the output → require human review → provide the content
+
+---
+
+This structure is not accidental.  
+It is designed to reduce the most common real-world AI risks in Hong Kong:
+- Invented facts or statistics  
+- Wrong legal or regulatory context  
+- Misreading Traditional Chinese  
+- Over-confident but incorrect summaries  
+
+---
+
+**Important:**
+
+- If you shorten a pattern, shorten the **Instruction** first — not the **Rule**  
+- Do not remove the **Rule** section — it is the main protection against unsafe or incorrect output
+
 ---
 
 #### Prompt Safety Checklist
@@ -186,11 +244,12 @@ The full patterns below are longer because higher-stakes tasks need more structu
 Apply this checklist before sending any prompt in this library:
 
 ```
-☐ Have I removed all personal data from the prompt?
-☐ Have I provided source material rather than asking the model to recall from memory?
-☐ Have I included explicit constraints ("do not invent," "use only the text I provided")?
-☐ Have I specified the output format clearly?
-☐ Have I included an uncertainty flag instruction where the output is high-stakes?
+- [ ] Have I removed all personal data from the prompt?
+- [ ] Have I provided source material rather than asking the model to recall from memory?
+- [ ] Have I placed the Content at the end of the prompt?
+- [ ] Have I included explicit constraints ("do not invent," "use only the text I provided")?
+- [ ] Have I specified the output format clearly?
+- [ ] Have I included an uncertainty flag instruction where the output is high-stakes?
 ```
 
 ---
@@ -205,6 +264,7 @@ Use as an opener for any task to set the AI's role and constraints:
 Background:
 You are a faithful assistant for a [church / SME / nonprofit] in Hong Kong.
 Your role is to help with [specific task — e.g. drafting announcements / summarising documents].
+
 Rule:
 - Use [English / Traditional Chinese / bilingual English and Traditional Chinese]
 - Do not provide legal, financial, pastoral, or medical advice
@@ -264,13 +324,21 @@ Tone: [warm / professional / urgent but calm]
 
 Language: [English / Traditional Chinese / bilingual]
 
-Key information: [dates, locations, actions needed]
-- Message purpose: [what you need to communicate]
-  
 Instruction:
+- Write as the organisation, not a specific person.
+
+Rule:
+- Do not include personal names in the message.
+
+Output Format:
 - Keep it under 150 words.
-- No personal names in the message. Write as the organisation, not a specific person.
-- After the draft, flag: any part I should double-check before sending.
+
+Review Note:
+- After the draft, flag any part I should double-check before sending.
+
+Content:
+- Key information: [dates, locations, actions needed]
+- Message purpose: [what you need to communicate]
 ```
 
 ---
@@ -278,19 +346,23 @@ Instruction:
 #### Pattern: Bilingual Draft (English + Traditional Chinese)
 **Use case:** Any content needing both English and TC versions  
 **Risk level:** 🟢 Green with review
+
 ```
 Task: Write the following in both English and Traditional Chinese (繁體中文).
 
 Instruction:
-- Produce the English version first, then the Traditional Chinese translation
-- Use Traditional Chinese characters throughout — NOT Simplified Chinese
-- Use [formal / warm / plain] register appropriate for [church congregation / business clients / volunteers]
-- Keep any proper nouns, organisation names, or ministry names in their original form; add a TC phonetic note in brackets only if it genuinely helps
-- If any term is ambiguous in TC, flag it: {TC REVIEWER: please check this term}
-- Do not strengthen or soften the tone beyond the source material
+- Produce the English version first, then the Traditional Chinese translation.
+- Use [formal / warm / plain] register appropriate for [church congregation / business clients / volunteers].
+- Keep any proper nouns, organisation names, or ministry names in their original form; add a TC phonetic note in brackets only if it genuinely helps.
 - After the draft, flag any terms needing human verification, especially theological, legal, or technical terms.
 
-Reminder: This output requires review by a Traditional Chinese-proficient team member before publication.
+Rule:
+- Use Traditional Chinese characters throughout — NOT Simplified Chinese.
+- Do not strengthen or soften the tone beyond the source material.
+- If any term is ambiguous in TC, flag it: {TC REVIEWER: please check this term}
+
+Reminder:
+- This output requires review by a Traditional Chinese-proficient team member before publication.
 
 Content (English source):
 [Paste your English draft or bullet points here] or attach a document and mention the document name here, e.g. attached [Document Name]
@@ -305,19 +377,19 @@ Content (English source):
 ```
 Task: Draft [the programme description / the impact narrative / the needs statement] for a funding application.
 
-Information Provided (use only this — do not invent):
+Rule:
+- Do NOT generate, estimate, or invent any statistics, percentages, impact numbers, or research citations.
+- If I have not provided a specific figure, write {STATISTIC REQUIRED — TO BE VERIFIED} as a placeholder.
+
+Output Format: Flowing prose, [LENGTH] words, [formal / warm] tone.
+
+Content (use only this — do not invent):
 - Programme name: [NAME]
 - What the programme does: [DESCRIPTION]
 - Who it serves: [TARGET GROUP]
 - Key activities: [LIST]
 - Results achieved (if any): [LIST with source if applicable]
 - Funder-specific language or priorities: [PASTE FROM FUNDER GUIDELINES or write "None specified"]
-
-Rule:
-- Do NOT generate, estimate, or invent any statistics, percentages, impact numbers, or research citations.
-- If I have not provided a specific figure, write {STATISTIC REQUIRED — TO BE VERIFIED} as a placeholder.
-
-Output Format: Flowing prose, [LENGTH] words, [formal / warm] tone.
 ```
 
 ---
@@ -343,7 +415,7 @@ Rule:
 - Do not add responsibilities I have not listed
 - Use role titles, not individual names
 - Do not make claims about compensation, benefits, or legal employment terms
-  
+
 Content:
 [Paste role detail or bullet points here] or attach a document and mention the document name here, e.g. attached [Document Name]
 ```
@@ -375,7 +447,7 @@ Rule:
 - List any specific figures, dates, thresholds, or deadlines I should verify
 - Tell me if any part was unclear or that you may have oversimplified
 
-Document:
+Content:
 [Paste document text here] or attach a document and mention the document name here, e.g. attached [Document Name]
 ```
 
@@ -403,7 +475,7 @@ Rule:
 
 Reminder: This output requires human review by someone who attended the meeting before distribution.
 
-Source Material:
+Content:
 [Paste meeting notes or transcript here] or attach a document and mention the document name here, e.g. attached [Document Name]
 ```
 
@@ -426,12 +498,12 @@ Rule:
 - If you are uncertain, flag it explicitly with "{UNCERTAIN}".
 - Do not invent, infer, or assume beyond the provided text.
 
-Output format:
-- Answer: [Your response]
-- Sources cited: [List]
-- Uncertainties flagged: [List or "None"]
+Output Format:
+- Answer: {Your response}
+- Sources cited: {List}
+- Uncertainties flagged: {List or "None"}
 
-Document(s):
+Content:
 [Paste the exact text of the approved source document(s)] or attach a document and mention the document name here, e.g. attached [Document Name]
 ```
 
@@ -445,13 +517,23 @@ Document(s):
 Task: I need information about [topic] in a Hong Kong context.
 
 Instruction:
-- Answer based on HK law / regulation — not US or UK equivalents
-- Name the specific HK ordinance or guidance you are drawing from
-- Tell me your confidence level: high / medium / low
-- Tell me which claims I should verify and on which official HK source
-- Flag anything that may have changed since your training cutoff
+- Tell me your confidence level: high / medium / low.
+- Tell me which claims I should verify and on which official HK source.
+- Flag anything that may have changed since your training cutoff.
 
-My question: [question]
+Rule:
+- Answer based on HK law / regulation — not US or UK equivalents.
+- Name the specific HK ordinance or guidance you are drawing from.
+
+Output Format:
+- Short answer
+- Confidence level
+- Claims to verify
+- Official HK sources to check
+- Uncertainties
+
+Content:
+[Your question]
 ```
 
 ---
@@ -461,13 +543,20 @@ My question: [question]
 **Risk level:** 🟡 Amber
 
 ```
-Task: Review this AI-generated content and tell me:
-- Which specific claims or statistics should I verify before using?
-- Are there HK-specific facts that may be wrong or outdated?
-- Are there citations or references I should confirm exist?
-- What are you least confident about?
+Task: Review this AI-generated content for possible hallucination or unsupported claims.
 
-Content to review: [paste AI output] or attach a document and mention the document name here, e.g. attached [Document Name]
+Instruction:
+- Identify specific claims, statistics, citations, or HK-specific facts that should be verified.
+- Tell me what you are least confident about.
+
+Output Format:
+- Claims to verify
+- Possible HK-specific issues
+- Citations or references to confirm
+- Uncertainties
+
+Content:
+[paste AI output] or attach a document and mention the document name here, e.g. attached [Document Name]
 ```
 
 ---
@@ -482,13 +571,20 @@ Content to review: [paste AI output] or attach a document and mention the docume
 Task: Draft a [type of policy] for [organisation type].
 
 Instruction:
-- Draft in plain English accessible to non-legal readers
-- Cover: [list key topics]
-- Be appropriate for Hong Kong — reference PDPO where relevant
-- Not exceed [X] pages
-- After the draft:
-  - Flag sections a Hong Kong solicitor should review before adoption
-  - Flag HK-specific legal requirements I should verify
+- Draft in plain English accessible to non-legal readers.
+- Cover: [list key topics].
+- Be appropriate for Hong Kong — reference PDPO where relevant.
+- Not exceed [X] pages.
+
+Rule:
+- Do not present the draft as legal advice.
+- Do not state that the policy is legally compliant.
+- Flag any legal, HR, or PDPO-related content for human review.
+
+Review Note:
+After the draft,
+- Flag sections a Hong Kong solicitor should review before adoption.
+- Flag HK-specific legal requirements I should verify.
 
 Content:
 [Paste policy detail or bullet points here] or attach a document and mention the document name here, e.g. attached [Document Name]
@@ -504,16 +600,19 @@ Content:
 Task: Answer a policy question from an existing policy document.
 
 Instruction:
-- Answer only from the policy document
-- If the answer is clearly stated, provide it and quote the relevant section
+- Be written in plain English, accessible to non-legal readers.
+
+Rule:
+- Answer only from the policy document.
+- If the answer is clearly stated, provide it and quote the relevant section.
 - If the answer is not in the policy, respond: "This question is not directly covered by the current policy. Please contact [CONTACT ROLE] for guidance."
-- Do not interpret, infer, or go beyond what the policy explicitly states
-- Do not provide legal advice or compliance assurance
-- Be written in plain English, accessible to non-legal readers
+- Do not interpret, infer, or go beyond what the policy explicitly states.
+- Do not provide legal advice or compliance assurance.
 
-Output Format: Plain answer in 2–4 sentences, followed by the policy section reference if applicable.
+Output Format:
+Plain answer in 2–4 sentences, followed by the policy section reference if applicable.
 
-Policy Document:
+Content:
 [Paste the approved policy text here] or attach a document and mention the document name here, e.g. attached [Document Name]
 ```
 
@@ -532,7 +631,8 @@ Before you answer my question, tell me:
 - Whether this is HK-specific or based on overseas principles
 - Which claims I should verify and on which primary source
 
-My question: [question]
+Content:
+[Your question]
 ```
 
 ---
@@ -541,11 +641,13 @@ My question: [question]
 ```
 Task: I need help with [task involving scripture or theology].
 
-Instruction:
-- Do not present theological interpretations as authoritative
-- If different Christian traditions hold different views, note that
-- Flag any scriptural references you are uncertain about
-- I will verify all scriptural content in the Bible before using it
+Rule:
+- Do not present theological interpretations as authoritative.
+- If different Christian traditions hold different views, note that.
+- Flag any scriptural references you are uncertain about.
+
+Reminder:
+- I will verify all scriptural content in the Bible before using it.
 ```
 
 ---
@@ -565,6 +667,8 @@ Instruction:
   - Was this data likely collected for a purpose that includes AI processing?
   - Which Data Protection Principles are relevant for this task?
   - What should I do before proceeding?
+
+Reminder:
 - I understand this is not legal advice.
 - I will verify with PCPD guidance or a solicitor before proceeding.
 
@@ -582,12 +686,18 @@ Content:
 Task: I need to know whether [practice or requirement] applies in Hong Kong.
 
 Instruction:
-- Please:
-  - Answer based on HK law specifically — not US or UK law
-  - Name the specific HK ordinance, section, or regulatory guidance
-  - Tell me the official HK source to verify (elegislation.gov.hk, sfc.hk, etc.)
-  - Tell me if you are uncertain about HK-specific application
+- Tell me the official HK source to verify (elegislation.gov.hk, sfc.hk, etc.).
+- Tell me if you are uncertain about HK-specific application.
+
+Rule:
+- Answer based on HK law specifically — not US or UK law.
+- Name the specific HK ordinance, section, or regulatory guidance.
+
+Reminder:
 - I understand this is not legal advice.
+
+Content:
+[Add any background facts, documents, or details relevant to the question]
 ```
 
 > [!warning] AI may cite repealed ordinances.
@@ -597,4 +707,4 @@ Instruction:
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

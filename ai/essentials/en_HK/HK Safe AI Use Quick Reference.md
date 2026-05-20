@@ -1,7 +1,7 @@
 ---
 title: HK Safe AI Use Quick Reference
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
 status: active
@@ -17,11 +17,11 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 ## 1. Where AI helps in Hong Kong
 
-* draft internal announcements
-* summarise typed documents
-* prepare bilingual first drafts
-* brainstorm public wording
-* reformat rough notes
+- draft internal announcements
+- summarise typed documents
+- prepare bilingual first drafts
+- brainstorm public wording
+- reformat rough notes
 
 ## 2. PDPO Before You Prompt [^1]
 
@@ -64,7 +64,7 @@ If no:
 - Check official Hong Kong sources where relevant
 - If the matter is serious, involve a qualified Hong Kong professional
 
-> Key sources: www.pcpd.org.hk · www.elegislation.gov.hk
+> Key sources: [www.pcpd.org.hk](https://www.pcpd.org.hk) · [www.elegislation.gov.hk](https://www.elegislation.gov.hk)
 
 ## 7. Personal Accounts Create Shadow AI Risk [^4]
 
@@ -83,8 +83,8 @@ Before using AI output, ask:
 - **Permission** - am I allowed to use this data and tool?
 - **Proof** - can I verify this before anyone relies on it?
 
-If all three are not clear, pause.
-This is the 3P Framework — see the [[3P Framework Poster]] for the full guide.
+If all three are not clear, pause.  
+This is the 3P Framework — see the [[3P Framework Poster]] for the full guide.  
 For the full HK-specific guidance and prompt templates, see [[HK Safe AI Use Pack and Prompt Pattern Library]].
 
 ---
@@ -92,7 +92,7 @@ For the full HK-specific guidance and prompt templates, see [[HK Safe AI Use Pac
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
 
 [^1]: [[HK Safe AI Use Pack and Prompt Pattern Library]]
 [^2]: [[3P Framework Poster]]

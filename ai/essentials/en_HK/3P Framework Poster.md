@@ -1,7 +1,7 @@
 ---
 title: 3P Framework Poster
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
 status: active
@@ -10,9 +10,9 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 ---
 # 3P Framework — Safe AI Use
 
-> **Three questions. Before every AI task. Every time.**
+> **Three questions. Before every AI task. Every time.**  
 >
-> AI is a powerful drafting tool. These three questions help you use it safely — not to slow you down, but to make sure you stay in control of the output.
+> AI is a powerful drafting tool. These three questions help you use it safely — not to slow you down, but to make sure you stay in control of the output.  
 
 ---
 
@@ -73,10 +73,10 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - **Can we correct it?** — if something goes wrong, can we explain and fix it quickly?
 
 > [!important] The accountability test:  
-> Would I be comfortable putting my name on this output and explaining what AI helped produce?
-> If yes — you have done enough. If no — check more.
+> Would I be comfortable putting my name on this output and explaining what AI helped produce?  
+> If yes — you have done enough. If no — check more.  
 
-> [!note] Polished is not proof. 
+> [!note] Polished is not proof.
 
 ---
 
@@ -127,8 +127,8 @@ Do not proceed until you can answer P1, P2, and P3 clearly.
 
 ---
 
-> *Before you use AI day-to-day — ask 3P.*
-> *Before you commit to an AI project — ask 3R.*
+> *Before you use AI day-to-day — ask 3P.*  
+> *Before you commit to an AI project — ask 3R.*  
 > *If you cannot answer all six clearly, pause and think it through first.*
 
 ---
@@ -136,4 +136,4 @@ Do not proceed until you can answer P1, P2, and P3 clearly.
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
