@@ -1,7 +1,7 @@
 ---
 title: AI Safety Checklist - Work
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
   - AI-safety
@@ -15,21 +15,21 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 # AI Safety Checklist — Work
 
 > [!info] Use case record:  
-> 
+>  
 > **Task:** (e.g. church newsletter drafting, meeting note summarisation)  
 > **Date:**  
 > **AI tool used:**  
 > **Filled in by:**  
 
 > [!quote] Why this matters at work:  
-> Using AI at work creates responsibilities you may not have when using AI personally.
-> You are handling your organisation's information, your clients' trust, and your professional reputation.
-> "AI said it" is not a professional defence. You are responsible for what you submit.
->
-> This checklist helps you use AI at work safely, within your organisation's rules, and in ways you can stand behind.
-> Use it every time you try a new AI tool or task.
+> Using AI at work creates responsibilities you may not have when using AI personally.  
+> You are handling your organisation's information, your clients' trust, and your professional reputation.  
+> "AI said it" is not a professional defence. You are responsible for what you submit.  
+>  
+> This checklist helps you use AI at work safely, within your organisation's rules, and in ways you can stand behind.  
+> Use it every time you try a new AI tool or task.  
 
-> Treat AI output as a draft engine, not a truth engine.
+> Treat AI output as a draft engine, not a truth engine.  
 > Every output needs a human reader before it reaches anyone or anything that matters.
 
 **Who this is for:** Staff, contractors, and volunteers using AI tools in any work context.
@@ -46,7 +46,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Who to ask** — who do I go to if unsure about a specific AI use?
 
 > [!important] If your organisation has no AI policy yet:  
-> Follow this checklist as your personal standard until a policy exists.
+> Follow this checklist as your personal standard until a policy exists.  
 > Raise with your manager that a policy is needed. You may share the AI Usage Policy template from Win.Win@Skybroad as a starting point.
 
 ---
@@ -90,7 +90,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Uncomfortable publicly?** — if I would not share it publicly, do not enter it
 
 > [!note] The simple rule:  
-> If you would not write it on a postcard and leave it on a public notice board, do not put it into a public AI tool.
+> If you would not write it on a postcard and leave it on a public notice board, do not put it into a public AI tool.  
 > This applies to client data, internal financials, strategic plans, and personal details.
 
 **Ask before using:**
@@ -100,8 +100,8 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Compliance documents?** — confirm the AI tool meets data handling requirements
 
 > [!note] HK-specific — PDPO Data Protection Principle 3:  
-> Personal data collected for one purpose cannot be used for a materially different purpose without consent.
-> Using a client's personal data in an AI tool may violate PDPO even if the data stays within your organisation.
+> Personal data collected for one purpose cannot be used for a materially different purpose without consent.  
+> Using a client's personal data in an AI tool may violate PDPO even if the data stays within your organisation.  
 > When in doubt — leave personal data out.
 
 ---
@@ -115,7 +115,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 - [ ] **Can explain it?** — able to tell my manager or client what AI helped with
 
 > [!warning] "AI said it" is not an excuse:  
-> You are responsible for work you submit. If AI produced an error you did not catch, the error is yours.
+> You are responsible for work you submit. If AI produced an error you did not catch, the error is yours.  
 > The employee who generates the content is the owner and is responsible for fact-checking and quality control.
 
 #### Hallucination warning signs — verify before trusting
@@ -164,8 +164,8 @@ Watch for these in any AI output before using or sharing it:
 
 ## 4. Agentic and Automated AI (Higher Risk)
 
-> The following two sections apply when your organisation uses automated AI tools or when personal AI accounts are involved. 
-> 
+> The following two sections apply when your organisation uses automated AI tools or when personal AI accounts are involved.  
+>  
 > If neither applies to your current task, skip to Section 6.
 
 If your organisation is using AI tools that can take actions — send emails, update records, book meetings, submit forms:
@@ -206,11 +206,11 @@ For high-stakes or decision-support tasks:
 
 If AI has produced an error that has already been sent, used, or submitted:
 
-1. **Tell manager** — immediately; do not try to fix it alone
-2. **Preserve the record** — keep what was sent and what the error was
-3. **Assess impact** — who received it, what decisions it may have affected
-4. **Correct it** — through the appropriate channel as quickly as possible
-5. **Learn from it** — what review step should have caught this?
+- **Tell manager** — immediately; do not try to fix it alone
+- **Preserve the record** — keep what was sent and what the error was
+- **Assess impact** — who received it, what decisions it may have affected
+- **Correct it** — through the appropriate channel as quickly as possible
+- **Learn from it** — what review step should have caught this?
 
 If personal data may have been accidentally exposed through an AI tool — this may trigger a PDPO notification obligation. Raise it with your manager or compliance contact immediately.
 
@@ -270,4 +270,4 @@ If all three are yes — you have done the minimum responsible thing.
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

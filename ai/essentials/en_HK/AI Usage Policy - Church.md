@@ -27,7 +27,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 
 > [!note] How to use this template:  
 > This is a starting point — not a finished policy. Replace every [bracketed placeholder] with your organisation's specific details.  
-> Adapt it to your organisation's specific context, culture, and operational needs. Before adopting this policy, have it reviewed by a qualified professional for your specific context — particularly for employment law, data privacy (PDPO), and any sector-specific regulatory requirements.
+> Adapt it to your organisation's specific context, culture, and operational needs. Before adopting this policy, have it reviewed by a qualified professional for your specific context — particularly for employment law, data privacy (PDPO), and any sector-specific regulatory requirements.  
 > This template does not constitute legal advice. Provided as general information and insight sharing by Win.Win@Skybroad.
 
 > [!note] May be adapted for Christian ministries and some faith-based organisations with appropriate theological review.
@@ -89,7 +89,7 @@ Only the following AI tools are approved for organisation-related AI tasks. Peop
 | [Insert Tool 2 — e.g., Google Gemini] | [Insert approved use] | [Insert restriction] |
 | [Insert Tool 3] | [Insert approved use] | [Insert restriction] |
 
-> [!note] This approved tool list should be reviewed annually or whenever a new tool is proposed for use.
+> [!note] This approved tool list should be reviewed annually or whenever a new tool is proposed for use.  
 > When reviewing a new tool, check: data retention terms, whether the tool trains on uploaded content, and data residency.
 
 ---
@@ -128,6 +128,7 @@ The following uses are **not permitted** under any circumstances. These 'red lin
 - [ ] **Beneficiary eligibility decisions** — AI must not make or recommend decisions about a person's access to care, financial assistance, or ministry participation.
 - [ ] **Deceptive AI-generated content** — AI-generated voices, images, or videos that misrepresent our leadership or fabricate statements from real people are prohibited.
 - [ ] **Unapproved tools** — AI tools not on the approved list in Section 4 must not be used for organisation-related tasks without prior written approval from the Policy Owner.
+
 ---
 
 ## 7. Required Safeguards for All Approved Uses
@@ -240,6 +241,7 @@ If AI produces an error that has already been shared with congregation members o
 | **[Senior pastor / church leader]** | Final authority on pastoral and theological AI boundary questions |
 
 > [!important] **[Senior pastor / church leader]** is final authority on pastoral and theological AI boundary questions
+
 ---
 
 ## 15. Policy Review
@@ -288,7 +290,7 @@ By signing below, I confirm that I have read, understood, and will comply with t
 - **Proof** — Will a human review this before it reaches anyone?
 
 **Always avoid:**
-- **Member data** — names, contacts, HKID, health, finances, prayer requests: never in any AI tool of members, visitors, or beneficiaries 
+- **Member data** — names, contacts, HKID, health, finances, prayer requests: never in any AI tool of members, visitors, or beneficiaries
 - **Pastoral AI** — counselling, prayer support, or spiritual guidance: human only
 - **Unreviewed output** — publishing or sending AI output without reading it first
 
@@ -296,7 +298,7 @@ By signing below, I confirm that I have read, understood, and will comply with t
 
 ---
 
-*This template was provided by Win.Win@Skybroad for educational and informational purposes.*
+*This template was provided by Win.Win@Skybroad for educational and informational purposes.*  
 *It does not constitute legal advice. The organisation adopting this policy is responsible for adapting it to their specific context and seeking independent professional advice where appropriate.*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  

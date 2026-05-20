@@ -1,7 +1,7 @@
 ---
 title: RAG Knowledge Readiness Assessment
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
   - RAG
@@ -18,7 +18,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 **Before building AI that answers from your documents**
 
 > [!quote] What this is for:  
-> RAG (Retrieval-Augmented Generation) lets AI answer questions by searching your own documents rather than relying on its training data alone. It sounds powerful — and it can be. But it only works if your documents are clean, current, organised, and legally permitted to use.
+> RAG (Retrieval-Augmented Generation) lets AI answer questions by searching your own documents rather than relying on its training data alone. It sounds powerful — and it can be. But it only works if your documents are clean, current, organised, and legally permitted to use.  
 > This assessment helps you find out whether you are ready before you start building.
 
 **What this assessment is:** A structured readiness check for any AI use case that relies on searching and retrieving from a document corpus.
@@ -103,7 +103,7 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 #### Gate 1 result: Pass / Fail
 
 > [!warning] Gate 1 is a hard stop:  
-> If any item above is "No" or "Unsure" — do not proceed to Gate 2 until it is resolved.
+> If any item above is "No" or "Unsure" — do not proceed to Gate 2 until it is resolved.  
 > A legal or data permission problem found after building is far more costly than finding it now.
 
 ---
@@ -163,7 +163,7 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 > [!note] Hierarchy of Truth:  
 > If two documents give different answers to the same question, establish in advance which one is the authoritative source. Without this, the AI will produce contradictory answers depending on which chunk is retrieved.
 
-#### G2.7 Scope and Completeness
+#### G2.6 Scope and Completeness
 - [ ] **Covers real questions** — corpus covers the questions users will actually ask
 
 > [!note] Practical test:  
@@ -176,7 +176,7 @@ Answer every question. A single "No" or "Unsure" in this gate means: **stop and 
 #### Gate 2 result: Pass / Fail
 
 > [!warning] Gate 2 key insight:  
-> Most organisations discover their document problem in Gate 2 — not in technical setup.
+> Most organisations discover their document problem in Gate 2 — not in technical setup.  
 > Cleaning documents before building is faster than debugging a live system with bad answers.
 
 ---
@@ -317,8 +317,8 @@ Based on all four gates:
 | Pause / rollback rule definition | | |
 
 > [!important] The invisible degradation problem:  
-> A knowledge base that passes this assessment on Day 1 can fail silently six months later.
-> A policy changes, no one updates the document, and the system continues to give confidently wrong answers.
+> A knowledge base that passes this assessment on Day 1 can fail silently six months later.  
+> A policy changes, no one updates the document, and the system continues to give confidently wrong answers.  
 > The most important governance question is not "Is it ready now?" but "Who keeps it ready after we launch?"
 
 ---
@@ -326,4 +326,4 @@ Based on all four gates:
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

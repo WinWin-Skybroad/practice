@@ -1,7 +1,7 @@
 ---
 title: AI Use Case Triage Scorecard
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
   - triage
@@ -15,7 +15,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 # AI Use-Case Triage Scorecard
 
 > [!quote] Purpose:  
-> Before committing time and resources to any AI project, spend 20 minutes answering these questions.
+> Before committing time and resources to any AI project, spend 20 minutes answering these questions.  
 > The score tells you whether to start now, fix something first, or stop entirely.
 
 **What this scorecard is:** A structured tool for deciding whether an AI use case should start now, start as a small pilot, wait, or stop.
@@ -103,7 +103,7 @@ Answer each question honestly. Use the scoring guide below. Add up each section 
 
 > [!warning] Using images introduces a "hidden" risk that native text does not:  
 > - **Silent Hallucination:** AI tools may "fix" messy handwriting or blurry Traditional Chinese characters without telling the user, potentially changing the meaning of a document.  
- > - **Verification Burden:** When the source is an image, the human reviewer must work harder to cross-reference the output against the visual source.
+> - **Verification Burden:** When the source is an image, the human reviewer must work harder to cross-reference the output against the visual source.
 
 *My P2 score:* ___
 
@@ -416,18 +416,18 @@ Scores:
   TOTAL: __ / 17 → [Green / Amber / Red]
 
 R2 readiness gaps identified:
-  Data: [Pass / Fail — notes]
-  Organisation: [Pass / Fail — notes]
-  Process: [Pass / Fail — notes]
-  Governance: [Pass / Fail — notes]
+  Data: [Pass / Fail]  notes: _______________
+  Organisation: [Pass / Fail]  notes: _______________
+  Process: [Pass / Fail]  notes: _______________
+  Governance: [Pass / Fail]  notes: _______________
 
 Decision:
   [ ] Proceed with pilot (14–17)
-  [ ] Fix first (10–13) — gaps to address: [...]
-  [ ] Do not start (6–9) — reasons: [...]
+  [ ] Fix first (10–13) — gaps to address: _______________
+  [ ] Do not start (6–9) — reasons: _______________
   [ ] Stop (0–5)
 
-Pilot success criteria: [...]
+Pilot success criteria: _______________
 Human review gate: [Named person]
 Review date: [Date]
 
@@ -439,4 +439,4 @@ Approved by: _______________  Date: _______________
 *If you found this useful, your feedback helps improve it for others — [Win.Win AI Essentials Feedback Form](https://forms.gle/52JirD3TMQqSwJbm7)*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

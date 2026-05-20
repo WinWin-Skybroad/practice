@@ -1,7 +1,7 @@
 ---
 title: AI Usage Policy — General Organisations
 created: 2026-04-04
-version: "1.0"
+version: "1.0.1"
 tags:
   - WinWin-Skybroad
   - AI-policy
@@ -20,19 +20,16 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 **Review date:** [Insert date — recommended: 12 months from effective date]  
 **Policy owner:** [Insert name and role — e.g., Managing Director / Operations Manager / IT Manager]  
 **Approved by:** [Insert name and role]  
-**Applies to:** All employees, contractors, and business partners acting on behalf of [Organisation Name]  
+**Applies to:** All employees, contractors, and business partners acting on behalf of [Organisation Name]
 
 ---
 
 > [!note] How to use this template:  
 > This is a starting point — not a finished policy. Replace every [bracketed placeholder] with your organisation's specific details.  
-> Adapt it to your organisation's specific context, culture, and operational needs. Before adopting this policy, have it reviewed by a qualified professional for your specific context — particularly for employment law, data privacy (PDPO), and any sector-specific regulatory requirements.
-> This template does not constitute legal advice. Provided as general information and insight sharing by Win.Win@Skybroad.
->
->This template is intended for organisations that do not yet have a more specific AI usage policy for their category.
-
-
-
+> Adapt it to your organisation's specific context, culture, and operational needs. Before adopting this policy, have it reviewed by a qualified professional for your specific context — particularly for employment law, data privacy (PDPO), and any sector-specific regulatory requirements.  
+> This template does not constitute legal advice. Provided as general information and insight sharing by Win.Win@Skybroad.  
+>  
+> This template is intended for organisations that do not yet have a more specific AI usage policy for their category.
 
 ---
 
@@ -90,7 +87,7 @@ Only the following AI tools are approved for organisation-related AI tasks. Peop
 | [Insert Tool 2 — e.g., Google Gemini] | [Insert approved use] | [Insert restriction] |
 | [Insert Tool 3] | [Insert approved use] | [Insert restriction] |
 
-> [!note] This approved tool list should be reviewed annually or whenever a new tool is proposed for use.
+> [!note] This approved tool list should be reviewed annually or whenever a new tool is proposed for use.  
 > When reviewing a new tool, check: data retention terms, whether the tool trains on uploaded content, and data residency.
 
 ---
@@ -115,7 +112,7 @@ The following administrative tasks are approved for AI assistance, subject to th
 
 ## 6. Prohibited Use Cases — The Red Lines
 
-The following uses are **not permitted** under any circumstances. These 'red lines' exist to protect our organisational integrity:
+The following uses are **not permitted** under any circumstances. These **'red lines'** exist to protect our organisational integrity:
 
 - [ ] **Client personal data in public AI tools** — Client names, HKID numbers, contact details, financial details, health information, or any personal data must never be entered into a public or personal AI tool.
 - [ ] **Confidential business information in unapproved tools** — Trade secrets, unpublished financial data, client contracts, pricing strategies, or proprietary business information must not be entered into any unapproved AI tool.
@@ -247,7 +244,7 @@ If AI produces an error that has already been sent to a client or used in a busi
 ## 14. Consequences of Non-Compliance
 
 > [!note] Adapt to your organisation's disciplinary framework and employment arrangements. Volunteer or government organisations should seek HR or legal advice on the appropriate consequence language for their context.
- 
+
 Employees who breach this policy — whether intentionally or through negligence — may be subject to disciplinary action, up to and including termination of employment, depending on the severity and nature of the breach.
 
 Breaches that result in a data privacy incident, client harm, or regulatory investigation may also expose the organisation to legal liability and regulatory action.
@@ -312,8 +309,8 @@ By signing below, I confirm that I have read, understood, and will comply with t
 
 ---
 
-*This template was provided by Win.Win@Skybroad for educational and informational purposes.*
+*This template was provided by Win.Win@Skybroad for educational and informational purposes.*  
 *It does not constitute legal advice. The organisation adopting this policy is responsible for adapting it to their specific business context and obtaining independent professional advice where appropriate, including in relation to PDPO compliance and employment law.*
 
 *Win.Win@Skybroad | winwin.skybroad@gmail.com*  
-*Version 1.0 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*
+*Version 1.0.1 | Licensed under CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybroad*

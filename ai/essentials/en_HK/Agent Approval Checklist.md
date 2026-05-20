@@ -18,7 +18,7 @@ licence: CC BY 4.0 — free to share and adapt with attribution to Win.Win@Skybr
 > Technology leads, operations managers, and IT-capable staff considering AI tools that take automated actions. Most churches and small organisations starting with AI do not need this document yet. If you are only using AI to draft text for human review, start with the [[3P Framework Poster]] and [[AI Safety Checklist - Work]] instead.
 
 > [!quote] The key difference:  
-> A standard AI tool responds. An AI agent acts.
+> A standard AI tool responds. An AI agent acts.  
 > Before you give AI the ability to send messages, update records, book meetings, submit forms, or make purchases — you need different controls. This checklist is those controls.
 
 **What this checklist is:** A structured approval gate for any AI system that can take actions — not just generate text.
@@ -44,8 +44,8 @@ An AI agent: the AI can take actions — sending emails, updating records, booki
 **Why agents require different controls:** With a standard AI tool, you see the output before anything happens. With an agent, actions may already be taken before you notice. Errors can propagate across multiple steps. Reversing them may be difficult or impossible.
 
 > [!important] Ask this first:  
-> Could this workflow be achieved with a well-designed prompt and a human clicking send — rather than a fully autonomous agent?
-> Many workflows that seem to need an agent work just as well with a good prompt and a human in the loop.
+> Could this workflow be achieved with a well-designed prompt and a human clicking send — rather than a fully autonomous agent?  
+> Many workflows that seem to need an agent work just as well with a good prompt and a human in the loop.  
 > If yes — use the simpler approach. Agents amplify both value and risk.
 
 ---
@@ -87,7 +87,7 @@ An AI agent: the AI can take actions — sending emails, updating records, booki
 | C5 | **Emergency stop** — a way to pause or roll back immediately? | ☐ | ☐ | ☐ | |
 
 > [!warning] Hard stop:  
-> If any Critical Gate is "No" — do not proceed until it is resolved.
+> If any Critical Gate is "No" — do not proceed until it is resolved.  
 > These are not optional.
 
 ---
@@ -237,9 +237,9 @@ Step 6: Agent logs the action and confirms to human
 - [ ] Not approved — gates failed: ___________________________
 - [ ] Requires further review by: ___________________________
 
-**Approved by:** ___________________________ **Date:** _______________  
+**Approved by:** ___________________________ **Date:** _______________   
 
-**Next re-certification review:** ___________________________ (recommended: 3 months from approval)
+**Next re-certification review:** ___________________________ (recommended: 3 months from approval)  
 
 > [!note] This approval covers the defined scope only. Any change to the agent's purpose, action types, data access, or target systems requires a new assessment.
 
